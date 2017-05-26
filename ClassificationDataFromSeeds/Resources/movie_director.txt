@@ -1,0 +1,751 @@
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"这个杀手不太冷","QuestionPatternFilled":null,"AnswerEntity":["吕克·贝松","吕克贝松","吕克","贝松"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"盗梦空间","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·诺兰","克里斯托弗诺兰","克里斯托弗","诺兰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"阿甘正传","QuestionPatternFilled":null,"AnswerEntity":["罗伯特·泽米吉斯","罗伯特泽米吉斯","罗伯特","泽米吉斯","罗伯特·赞米基斯","罗伯特赞米基斯","赞米基斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"千与千寻","QuestionPatternFilled":null,"AnswerEntity":["宫崎骏","柯克·维斯","柯克维斯","柯克","维斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"泰坦尼克号","QuestionPatternFilled":null,"AnswerEntity":["詹姆斯·卡梅隆","詹姆斯卡梅隆","詹姆斯","卡梅隆"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"让子弹飞","QuestionPatternFilled":null,"AnswerEntity":["姜文"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"霸王别姬","QuestionPatternFilled":null,"AnswerEntity":["陈凯歌"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"海上钢琴师","QuestionPatternFilled":null,"AnswerEntity":["朱塞佩·托纳多雷","朱塞佩托纳多雷","朱塞佩","托纳多雷","吉赛贝·托纳多雷","吉赛贝托纳多雷","吉赛贝"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"当幸福来敲门","QuestionPatternFilled":null,"AnswerEntity":["加布里尔·穆奇诺","加布里尔穆奇诺","加布里尔","穆奇诺","加布里尔·穆西诺","加布里尔穆西诺","穆西诺"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"怦然心动","QuestionPatternFilled":null,"AnswerEntity":["罗伯·莱纳","罗伯莱纳","罗伯","莱纳","罗伯·莱纳（rob reiner）","罗伯莱纳robreiner","rob","reiner"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"阿凡达","QuestionPatternFilled":null,"AnswerEntity":["詹姆斯·卡梅隆","詹姆斯卡梅隆","詹姆斯","卡梅隆"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"那些年，我们一起追的女孩","QuestionPatternFilled":null,"AnswerEntity":["九把刀","江金霖","廖明毅"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"那些年我们一起追的女孩","QuestionPatternFilled":null,"AnswerEntity":["九把刀","江金霖","廖明毅"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"那些年","QuestionPatternFilled":null,"AnswerEntity":["九把刀","江金霖","廖明毅"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"我们一起追的女孩","QuestionPatternFilled":null,"AnswerEntity":["九把刀","江金霖","廖明毅"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"剪刀手爱德华","QuestionPatternFilled":null,"AnswerEntity":["蒂姆·波顿","蒂姆波顿","蒂姆","波顿","蒂姆·伯顿","蒂姆伯顿","伯顿"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"星际穿越","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·诺兰","克里斯托弗诺兰","克里斯托弗","诺兰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"天使爱美丽","QuestionPatternFilled":null,"AnswerEntity":["让-皮埃尔·热内","让皮埃尔热内","皮埃尔","热内"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"疯狂动物城","QuestionPatternFilled":null,"AnswerEntity":["杰拉德·布什","杰拉德布什","杰拉德","布什","拜伦·霍华德","拜伦霍华德","拜伦","霍华德","瑞奇·摩尔","瑞奇摩尔","瑞奇","摩尔","拜恩·霍华德","拜恩霍华德","拜恩","瑞奇·莫尔","瑞奇莫尔","莫尔","拜恩·霍华德,里奇·摩尔,杰拉德·布什","拜恩霍华德,里奇摩尔,杰拉德布什","霍华德,里奇","摩尔,杰拉德","拜恩·霍华德 瑞奇·摩尔 杰拉德·布什","拜恩霍华德瑞奇摩尔杰拉德布什","拜恩·霍华德、里奇·摩尔、杰拉德·布什","拜恩霍华德里奇摩尔杰拉德布什","里奇","jared bush","jaredbush","jared","bush"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"放牛班的春天","QuestionPatternFilled":null,"AnswerEntity":["克里斯托夫·巴拉蒂","克里斯托夫巴拉蒂","克里斯托夫","巴拉蒂","christophe barratier","christophebarratier","christophe","barratier"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"初恋这件小事","QuestionPatternFilled":null,"AnswerEntity":["华森·波克彭","华森波克彭","华森","波克彭","普特鹏·普罗萨卡·那·萨克那卡林","普特鹏普罗萨卡那萨克那卡林","普特鹏","普罗萨卡","萨克那卡林","puttipong promsaka na sakolnakorn","puttipongpromsakanasakolnakorn","puttipong","promsaka","na","sakolnakorn","puttipong pormsaka na-sakonnakorn","puttipongpormsakanasakonnakorn","pormsaka","sakonnakorn","wasin pokpong","wasinpokpong","wasin","pokpong"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"人再囧途之泰囧","QuestionPatternFilled":null,"AnswerEntity":["徐峥"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"忠犬八公的故事","QuestionPatternFilled":null,"AnswerEntity":["莱塞·霍尔斯道姆","莱塞霍尔斯道姆","莱塞","霍尔斯道姆","拉斯·霍尔斯道姆","拉斯霍尔斯道姆","拉斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"V字仇杀队","QuestionPatternFilled":null,"AnswerEntity":["詹姆斯·麦克特格","詹姆斯麦克特格","詹姆斯","麦克特格","詹姆斯·麦克提格","詹姆斯麦克提格","麦克提格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"龙猫","QuestionPatternFilled":null,"AnswerEntity":["宫崎骏"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"美丽人生","QuestionPatternFilled":null,"AnswerEntity":["罗伯托·贝尼尼","罗伯托贝尼尼","罗伯托","贝尼尼","罗贝托·贝尼尼","罗贝托贝尼尼","罗贝托"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑天鹅","QuestionPatternFilled":null,"AnswerEntity":["darren aronofsky","darrenaronofsky","darren","aronofsky","达伦·阿伦诺夫斯基","达伦阿伦诺夫斯基","达伦","阿伦诺夫斯基","达伦·阿罗诺夫斯基","达伦阿罗诺夫斯基","阿罗诺夫斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"美人鱼","QuestionPatternFilled":null,"AnswerEntity":["周星驰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"老炮儿","QuestionPatternFilled":null,"AnswerEntity":["管虎"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"无间道","QuestionPatternFilled":null,"AnswerEntity":["刘伟强","麦兆辉","麦兆辉 刘伟强","麦兆辉刘伟强","刘伟强、麦兆辉","刘伟强麦兆辉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"贫民窟的百万富翁","QuestionPatternFilled":null,"AnswerEntity":["丹尼·鲍尔","丹尼鲍尔","丹尼","鲍尔","丹尼·博伊尔","丹尼博伊尔","博伊尔","洛芙琳·坦丹","洛芙琳坦丹","洛芙琳","坦丹","丹尼·保尔","丹尼保尔","保尔","丹尼·博伊尔 loveleen tandan","丹尼博伊尔loveleentandan","loveleen","tandan"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"罗马假日","QuestionPatternFilled":null,"AnswerEntity":["威廉·惠勒","威廉惠勒","威廉","惠勒"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"后会无期","QuestionPatternFilled":null,"AnswerEntity":["韩寒"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"大话西游之月光宝盒","QuestionPatternFilled":null,"AnswerEntity":["刘镇伟","周星驰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"源代码","QuestionPatternFilled":null,"AnswerEntity":["邓肯·琼斯","邓肯琼斯","邓肯","琼斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"西游记之大圣归来","QuestionPatternFilled":null,"AnswerEntity":["田晓鹏"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"本杰明·巴顿奇事","QuestionPatternFilled":null,"AnswerEntity":["大卫·芬奇","大卫芬奇","大卫","芬奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"本杰明巴顿奇事","QuestionPatternFilled":null,"AnswerEntity":["大卫·芬奇","大卫芬奇","大卫","芬奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"本杰明","QuestionPatternFilled":null,"AnswerEntity":["大卫·芬奇","大卫芬奇","大卫","芬奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"巴顿奇事","QuestionPatternFilled":null,"AnswerEntity":["大卫·芬奇","大卫芬奇","大卫","芬奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"北京遇上西雅图","QuestionPatternFilled":null,"AnswerEntity":["薛晓路"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"你的名字。","QuestionPatternFilled":null,"AnswerEntity":["新海诚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"你的名字","QuestionPatternFilled":null,"AnswerEntity":["新海诚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"疯狂原始人","QuestionPatternFilled":null,"AnswerEntity":["克里斯·桑德斯","克里斯桑德斯","克里斯","桑德斯","柯克·德·米科","柯克德米科","柯克","米科","科克·德·米科","科克德米科","科克","科克·德·米科,克里斯·桑德斯","科克德米科,克里斯桑德斯","米科,克里斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"搏击俱乐部","QuestionPatternFilled":null,"AnswerEntity":["大卫·芬奇","大卫芬奇","大卫","芬奇","david fincher","davidfincher","david","fincher"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"触不可及","QuestionPatternFilled":null,"AnswerEntity":["奥利维·那卡什","奥利维那卡什","奥利维","那卡什","艾力克·托兰达","艾力克托兰达","艾力克","托兰达"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"神偷奶爸","QuestionPatternFilled":null,"AnswerEntity":["克里斯·雷纳德","克里斯雷纳德","克里斯","雷纳德","皮艾尔·柯芬","皮艾尔柯芬","皮艾尔","柯芬","皮埃尔·科芬","皮埃尔科芬","皮埃尔","科芬","皮埃尔·柯芬","皮埃尔柯芬","克里斯·雷诺德","克里斯雷诺德","雷诺德","皮埃尔·科芬pierre coffin","皮埃尔科芬pierrecoffin","科芬pierre","coffin"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"超能陆战队","QuestionPatternFilled":null,"AnswerEntity":["克里斯·威廉姆斯","克里斯威廉姆斯","克里斯","威廉姆斯","唐·霍尔","唐霍尔","霍尔","don hall","donhall","don","hall","唐·霍尔,克里斯·威廉姆斯","唐霍尔,克里斯威廉姆斯","霍尔,克里斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"禁闭岛","QuestionPatternFilled":null,"AnswerEntity":["马丁·斯科塞斯","马丁斯科塞斯","马丁","斯科塞斯","马丁·斯科西斯","马丁斯科西斯","斯科西斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"沉默的羔羊","QuestionPatternFilled":null,"AnswerEntity":["乔纳森·戴米","乔纳森戴米","乔纳森","戴米"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"夏洛特烦恼","QuestionPatternFilled":null,"AnswerEntity":["闫非","彭大魔","闫非 彭大魔","闫非彭大魔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"蝴蝶效应","QuestionPatternFilled":null,"AnswerEntity":["j.麦基·格鲁伯","j.麦基格鲁伯","j.麦基","格鲁伯","埃里克·布雷斯","埃里克布雷斯","埃里克","布雷斯","j. mackye gruber","j.mackyegruber","j.","mackye","gruber","麦卡·格鲁勃j.","麦卡格鲁勃j.","麦卡","格鲁勃j."]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"中国合伙人","QuestionPatternFilled":null,"AnswerEntity":["陈可辛","林爱华","周智勇","张冀"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"釜山行","QuestionPatternFilled":null,"AnswerEntity":["延尚浩","延尚昊","延相昊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"致我们终将逝去的青春","QuestionPatternFilled":null,"AnswerEntity":["赵薇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"教父","QuestionPatternFilled":null,"AnswerEntity":["弗朗西斯·福特·科波拉","弗朗西斯福特科波拉","弗朗西斯","福特","科波拉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"消失的爱人","QuestionPatternFilled":null,"AnswerEntity":["大卫·芬奇","大卫芬奇","大卫","芬奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"致命魔术","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·诺兰","克里斯托弗诺兰","克里斯托弗","诺兰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"西西里的美丽传说","QuestionPatternFilled":null,"AnswerEntity":["朱塞佩·托纳多雷","朱塞佩托纳多雷","朱塞佩","托纳多雷"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哈尔的移动城堡","QuestionPatternFilled":null,"AnswerEntity":["宫崎骏"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"寻龙诀","QuestionPatternFilled":null,"AnswerEntity":["乌尔善"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗","QuestionPatternFilled":null,"AnswerEntity":["戈尔·维宾斯基","戈尔维宾斯基","戈尔","维宾斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"告白","QuestionPatternFilled":null,"AnswerEntity":["中岛哲也"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"天空之城","QuestionPatternFilled":null,"AnswerEntity":["宫崎骏"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"入殓师","QuestionPatternFilled":null,"AnswerEntity":["泷田洋二郎"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"志明与春娇","QuestionPatternFilled":null,"AnswerEntity":["彭浩翔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"复仇者联盟","QuestionPatternFilled":null,"AnswerEntity":["乔斯·韦登","乔斯韦登","乔斯","韦登"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"天堂电影院","QuestionPatternFilled":null,"AnswerEntity":["朱塞佩·托纳多雷","朱塞佩托纳多雷","朱塞佩","托纳多雷","吉赛贝·托纳多雷","吉赛贝托纳多雷","吉赛贝"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"两小无猜","QuestionPatternFilled":null,"AnswerEntity":["杨·塞谬尔","杨塞谬尔","塞谬尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"和莎莫的500天","QuestionPatternFilled":null,"AnswerEntity":["马克·韦布","马克韦布","马克","韦布"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"和莎莫的天","QuestionPatternFilled":null,"AnswerEntity":["马克·韦布","马克韦布","马克","韦布"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"和莎莫的","QuestionPatternFilled":null,"AnswerEntity":["马克·韦布","马克韦布","马克","韦布"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"致命ID","QuestionPatternFilled":null,"AnswerEntity":["詹姆斯·曼高德","詹姆斯曼高德","詹姆斯","曼高德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"蝙蝠侠：黑暗骑士","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·诺兰","克里斯托弗诺兰","克里斯托弗","诺兰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"蝙蝠侠黑暗骑士","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·诺兰","克里斯托弗诺兰","克里斯托弗","诺兰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"蝙蝠侠","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·诺兰","克里斯托弗诺兰","克里斯托弗","诺兰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑暗骑士","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·诺兰","克里斯托弗诺兰","克里斯托弗","诺兰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"金陵十三钗","QuestionPatternFilled":null,"AnswerEntity":["张艺谋"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"真爱至上","QuestionPatternFilled":null,"AnswerEntity":["理查德·柯蒂斯","理查德柯蒂斯","理查德","柯蒂斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王1：魔戒再现","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王1魔戒再现","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王1","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"魔戒再现","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王魔戒再现","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"美丽心灵","QuestionPatternFilled":null,"AnswerEntity":["朗·霍华德","朗霍华德","霍华德","朗侯活"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"岁月神偷","QuestionPatternFilled":null,"AnswerEntity":["罗启锐"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"人在囧途","QuestionPatternFilled":null,"AnswerEntity":["叶伟民"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"疯狂的石头","QuestionPatternFilled":null,"AnswerEntity":["宁浩"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"勇敢的心","QuestionPatternFilled":null,"AnswerEntity":["梅尔·吉布森","梅尔吉布森","梅尔","吉布森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"喜剧之王","QuestionPatternFilled":null,"AnswerEntity":["周星驰","李力持"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"冰雪奇缘","QuestionPatternFilled":null,"AnswerEntity":["克里斯·巴克","克里斯巴克","克里斯","巴克","珍妮弗·李","珍妮弗李","珍妮弗","詹妮弗·李","詹妮弗李","詹妮弗","克里斯·巴克 珍妮弗·李","克里斯巴克珍妮弗李"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"低俗小说","QuestionPatternFilled":null,"AnswerEntity":["昆汀·塔伦蒂诺","昆汀塔伦蒂诺","昆汀","塔伦蒂诺"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"火星救援","QuestionPatternFilled":null,"AnswerEntity":["雷德利·斯科特","雷德利斯科特","雷德利","斯科特"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"功夫熊猫","QuestionPatternFilled":null,"AnswerEntity":["马克·奥斯本","马克奥斯本","马克","奥斯本","约翰·斯蒂文森","约翰斯蒂文森","约翰","斯蒂文森","john stevenson","johnstevenson","john","stevenson","约翰·史蒂芬森","约翰史蒂芬森","史蒂芬森","马克·奥斯本、约翰·斯蒂文森","马克奥斯本约翰斯蒂文森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王3：王者无敌","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王3王者无敌","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王3","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"王者无敌","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王王者无敌","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"唐伯虎点秋香","QuestionPatternFilled":null,"AnswerEntity":["周星驰","李力持"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"傲慢与偏见","QuestionPatternFilled":null,"AnswerEntity":["乔·赖特","乔赖特","赖特","乔·怀特","乔怀特","怀特"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"爱乐之城","QuestionPatternFilled":null,"AnswerEntity":["达米安·沙泽勒","达米安沙泽勒","达米安","沙泽勒","达米恩·查泽雷","达米恩查泽雷","达米恩","查泽雷"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"2012","QuestionPatternFilled":null,"AnswerEntity":["罗兰·艾默里奇","罗兰艾默里奇","罗兰","艾默里奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"","QuestionPatternFilled":null,"AnswerEntity":["罗兰·艾默里奇","罗兰艾默里奇","罗兰","艾默里奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"断背山","QuestionPatternFilled":null,"AnswerEntity":["李安"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"飞越疯人院","QuestionPatternFilled":null,"AnswerEntity":["米洛斯·福尔曼","米洛斯福尔曼","米洛斯","福尔曼","米洛斯·福曼","米洛斯福曼","福曼"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"云图","QuestionPatternFilled":null,"AnswerEntity":["汤姆·提克威","汤姆提克威","汤姆","提克威","莉莉·沃卓斯基","莉莉沃卓斯基","莉莉","沃卓斯基","安迪·沃卓斯基","安迪沃卓斯基","安迪","拉娜·沃卓斯基","拉娜沃卓斯基","拉娜","lana wachowski","lanawachowski","lana","wachowski","沃卓斯基姐弟"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"一代宗师","QuestionPatternFilled":null,"AnswerEntity":["王家卫"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"乱世佳人","QuestionPatternFilled":null,"AnswerEntity":["乔治·丘克","乔治丘克","乔治","丘克","维克多·弗莱明","维克多弗莱明","维克多","弗莱明","山姆·伍德","山姆伍德","山姆","伍德","乔治·库克","乔治库克","库克","维克多·弗莱明 乔治·库克 山姆·伍德","维克多弗莱明乔治库克山姆伍德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"被嫌弃的松子的一生","QuestionPatternFilled":null,"AnswerEntity":["中岛哲也"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王2：双塔奇兵","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王2双塔奇兵","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王2","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"双塔奇兵","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王双塔奇兵","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"指环王","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"我的少女时代","QuestionPatternFilled":null,"AnswerEntity":["陈玉珊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"射雕英雄传之东成西就","QuestionPatternFilled":null,"AnswerEntity":["刘镇伟"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"驯龙高手","QuestionPatternFilled":null,"AnswerEntity":["迪恩·德布洛斯","迪恩德布洛斯","迪恩","德布洛斯","克里斯·桑德斯","克里斯桑德斯","克里斯","桑德斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑客帝国","QuestionPatternFilled":null,"AnswerEntity":["莉莉·沃卓斯基","莉莉沃卓斯基","莉莉","沃卓斯基","安迪·沃卓斯基","安迪沃卓斯基","安迪","拉娜·沃卓斯基","拉娜沃卓斯基","拉娜","川尻善昭","沃卓斯基兄弟","安迪·琼斯","安迪琼斯","琼斯","安迪·沃卓斯基、拉娜·沃卓斯基","安迪沃卓斯基拉娜沃卓斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"狮子王","QuestionPatternFilled":null,"AnswerEntity":["罗伯·明可夫","罗伯明可夫","罗伯","明可夫","罗杰·阿勒斯","罗杰阿勒斯","罗杰","阿勒斯","罗杰·艾勒斯","罗杰艾勒斯","艾勒斯","罗杰·阿勒斯roger","罗杰阿勒斯roger","阿勒斯roger","罗杰·艾勒斯、罗伯·明可夫","罗杰艾勒斯罗伯明可夫"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"蓝色大门","QuestionPatternFilled":null,"AnswerEntity":["易智言"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"阳光灿烂的日子","QuestionPatternFilled":null,"AnswerEntity":["姜文"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"记忆碎片","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·诺兰","克里斯托弗诺兰","克里斯托弗","诺兰","christopher nolan","christophernolan","christopher","nolan"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"风声","QuestionPatternFilled":null,"AnswerEntity":["陈国富","高群书","高群书、陈国富","高群书陈国富"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哈利·波特与死亡圣器(下)","QuestionPatternFilled":null,"AnswerEntity":["大卫·叶茨","大卫叶茨","大卫","叶茨","大卫·耶茨","大卫耶茨","耶茨"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哈利波特与死亡圣器下","QuestionPatternFilled":null,"AnswerEntity":["大卫·叶茨","大卫叶茨","大卫","叶茨","大卫·耶茨","大卫耶茨","耶茨"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"波特与死亡圣器","QuestionPatternFilled":null,"AnswerEntity":["大卫·叶茨","大卫叶茨","大卫","叶茨","大卫·耶茨","大卫耶茨","耶茨"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"无人区","QuestionPatternFilled":null,"AnswerEntity":["宁浩","宁浩 hao ning","宁浩haoning","hao","ning"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"香水","QuestionPatternFilled":null,"AnswerEntity":["汤姆·提克威","汤姆提克威","汤姆","提克威"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"心灵捕手","QuestionPatternFilled":null,"AnswerEntity":["格斯·范·桑特","格斯范桑特","格斯","桑特"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"他其实没那么喜欢你","QuestionPatternFilled":null,"AnswerEntity":["肯·卡皮斯","肯卡皮斯","卡皮斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"阳光姐妹淘","QuestionPatternFilled":null,"AnswerEntity":["姜炯哲"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"社交网络","QuestionPatternFilled":null,"AnswerEntity":["大卫·芬奇","大卫芬奇","大卫","芬奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"活着","QuestionPatternFilled":null,"AnswerEntity":["张艺谋"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"功夫","QuestionPatternFilled":null,"AnswerEntity":["周星驰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"碟中谍4","QuestionPatternFilled":null,"AnswerEntity":["布拉德·伯德","布拉德伯德","布拉德","伯德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"碟中谍","QuestionPatternFilled":null,"AnswerEntity":["布拉德·伯德","布拉德伯德","布拉德","伯德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"速度与激情7","QuestionPatternFilled":null,"AnswerEntity":["温子仁","詹姆斯·温","詹姆斯温","詹姆斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"速度与激情","QuestionPatternFilled":null,"AnswerEntity":["温子仁","詹姆斯·温","詹姆斯温","詹姆斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"了不起的盖茨比","QuestionPatternFilled":null,"AnswerEntity":["巴兹·鲁赫曼","巴兹鲁赫曼","巴兹","鲁赫曼","巴兹·鲁曼","巴兹鲁曼","鲁曼"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"功夫熊猫2","QuestionPatternFilled":null,"AnswerEntity":["吕寅荣","詹妮弗·余","詹妮弗余","詹妮弗"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"功夫熊猫","QuestionPatternFilled":null,"AnswerEntity":["吕寅荣","詹妮弗·余","詹妮弗余","詹妮弗"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"非诚勿扰","QuestionPatternFilled":null,"AnswerEntity":["冯小刚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"恐怖游轮","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·史密斯","克里斯托弗史密斯","克里斯托弗","史密斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"被解救的姜戈","QuestionPatternFilled":null,"AnswerEntity":["昆汀·塔伦蒂诺","昆汀塔伦蒂诺","昆汀","塔伦蒂诺"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"大鱼","QuestionPatternFilled":null,"AnswerEntity":["蒂姆·波顿","蒂姆波顿","蒂姆","波顿","蒂姆·伯顿","蒂姆伯顿","伯顿"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"不能说的秘密","QuestionPatternFilled":null,"AnswerEntity":["周杰伦"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"驴得水","QuestionPatternFilled":null,"AnswerEntity":["刘露","周申","周申、刘露","周申刘露"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"春娇与志明","QuestionPatternFilled":null,"AnswerEntity":["彭浩翔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"画皮","QuestionPatternFilled":null,"AnswerEntity":["钱永强","陈嘉上"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"秒速5厘米","QuestionPatternFilled":null,"AnswerEntity":["新海诚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"秒速厘米","QuestionPatternFilled":null,"AnswerEntity":["新海诚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"猜火车","QuestionPatternFilled":null,"AnswerEntity":["丹尼·博伊尔","丹尼博伊尔","丹尼","博伊尔","丹尼·鲍尔","丹尼鲍尔","鲍尔","丹尼·保尔","丹尼保尔","保尔","丹尼·博伊尔 danny boyle","丹尼博伊尔dannyboyle","danny","boyle"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"亲爱的","QuestionPatternFilled":null,"AnswerEntity":["陈可辛"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"明日边缘","QuestionPatternFilled":null,"AnswerEntity":["道格·里曼","道格里曼","道格","里曼","doug liman","dougliman","doug","liman"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哈利·波特与魔法石","QuestionPatternFilled":null,"AnswerEntity":["克里斯·哥伦布","克里斯哥伦布","克里斯","哥伦布"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哈利波特与魔法石","QuestionPatternFilled":null,"AnswerEntity":["克里斯·哥伦布","克里斯哥伦布","克里斯","哥伦布"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"波特与魔法石","QuestionPatternFilled":null,"AnswerEntity":["克里斯·哥伦布","克里斯哥伦布","克里斯","哥伦布"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"模仿游戏","QuestionPatternFilled":null,"AnswerEntity":["莫滕·泰杜姆","莫滕泰杜姆","莫滕","泰杜姆","morten tyldum","mortentyldum","morten","tyldum","莫腾·泰杜姆","莫腾泰杜姆","莫腾"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"史密斯夫妇","QuestionPatternFilled":null,"AnswerEntity":["道格·里曼","道格里曼","道格","里曼"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"神奇动物在哪里","QuestionPatternFilled":null,"AnswerEntity":["大卫·叶茨","大卫叶茨","大卫","叶茨","大卫·耶茨","大卫耶茨","耶茨"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"小时代","QuestionPatternFilled":null,"AnswerEntity":["郭敬明"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"色，戒","QuestionPatternFilled":null,"AnswerEntity":["李安"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"色戒","QuestionPatternFilled":null,"AnswerEntity":["李安"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"春光乍泄","QuestionPatternFilled":null,"AnswerEntity":["王家卫"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"唐人街探案","QuestionPatternFilled":null,"AnswerEntity":["陈思诚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"七月与安生","QuestionPatternFilled":null,"AnswerEntity":["曾国祥"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"花样年华","QuestionPatternFilled":null,"AnswerEntity":["王家卫"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"变形金刚","QuestionPatternFilled":null,"AnswerEntity":["迈克尔·贝","迈克尔贝","迈克尔","迈克尔·贝[3]","迈克尔贝[3]","贝[3]"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"倩女幽魂","QuestionPatternFilled":null,"AnswerEntity":["程小东"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"非诚勿扰2","QuestionPatternFilled":null,"AnswerEntity":["冯小刚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"非诚勿扰","QuestionPatternFilled":null,"AnswerEntity":["冯小刚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"拯救大兵瑞恩","QuestionPatternFilled":null,"AnswerEntity":["史蒂文·斯皮尔伯格","史蒂文斯皮尔伯格","史蒂文","斯皮尔伯格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"音乐之声","QuestionPatternFilled":null,"AnswerEntity":["罗伯特·怀斯","罗伯特怀斯","罗伯特","怀斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"幽灵公主","QuestionPatternFilled":null,"AnswerEntity":["宫崎骏"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"怪兽电力公司","QuestionPatternFilled":null,"AnswerEntity":["李·昂克里奇","李昂克里奇","昂克里奇","彼特·道格特","彼特道格特","彼特","道格特","大卫·斯沃曼","大卫斯沃曼","大卫","斯沃曼","彼特·道格特/大卫·斯沃曼/李·昂克里奇","彼特道格特/大卫斯沃曼/李昂克里奇","道格特/大卫","斯沃曼/李"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"烈日灼心","QuestionPatternFilled":null,"AnswerEntity":["曹保平"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"惊天魔盗团","QuestionPatternFilled":null,"AnswerEntity":["路易斯·莱特里尔","路易斯莱特里尔","路易斯","莱特里尔","刘易斯·莱特里尔","刘易斯莱特里尔","刘易斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"单身男女","QuestionPatternFilled":null,"AnswerEntity":["杜琪峰","杜琪峯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"神偷奶爸2","QuestionPatternFilled":null,"AnswerEntity":["克里斯·雷纳德","克里斯雷纳德","克里斯","雷纳德","皮艾尔·柯芬","皮艾尔柯芬","皮艾尔","柯芬","皮埃尔·科芬","皮埃尔科芬","皮埃尔","科芬","皮埃尔·柯芬","皮埃尔柯芬"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"神偷奶爸","QuestionPatternFilled":null,"AnswerEntity":["克里斯·雷纳德","克里斯雷纳德","克里斯","雷纳德","皮艾尔·柯芬","皮艾尔柯芬","皮艾尔","柯芬","皮埃尔·科芬","皮埃尔科芬","皮埃尔","科芬","皮埃尔·柯芬","皮埃尔柯芬"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"甜蜜蜜","QuestionPatternFilled":null,"AnswerEntity":["陈可辛"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"大鱼海棠","QuestionPatternFilled":null,"AnswerEntity":["梁旋","张春","梁旋,张春","梁旋 张春","梁旋张春","梁旋、张春"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"里约大冒险","QuestionPatternFilled":null,"AnswerEntity":["卡洛斯·沙尔丹哈","卡洛斯沙尔丹哈","卡洛斯","沙尔丹哈"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"银河护卫队","QuestionPatternFilled":null,"AnswerEntity":["佐伊·索尔达娜","佐伊索尔达娜","佐伊","索尔达娜","詹姆斯·古恩","詹姆斯古恩","詹姆斯","古恩","james gunn","jamesgunn","james","gunn"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"十月围城","QuestionPatternFilled":null,"AnswerEntity":["陈德森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"爆裂鼓手","QuestionPatternFilled":null,"AnswerEntity":["达米安·沙泽勒","达米安沙泽勒","达米安","沙泽勒","达米恩·查泽雷","达米恩查泽雷","达米恩","查泽雷"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"幸福终点站","QuestionPatternFilled":null,"AnswerEntity":["史蒂文·斯皮尔伯格","史蒂文斯皮尔伯格","史蒂文","斯皮尔伯格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"天下无贼","QuestionPatternFilled":null,"AnswerEntity":["冯小刚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"假如爱有天意","QuestionPatternFilled":null,"AnswerEntity":["郭在容"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"搜索","QuestionPatternFilled":null,"AnswerEntity":["陈凯歌"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"寒战","QuestionPatternFilled":null,"AnswerEntity":["梁乐民","陆剑青"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"第六感","QuestionPatternFilled":null,"AnswerEntity":["m·奈特·沙马兰","m奈特沙马兰","奈特","沙马兰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"窃听风暴","QuestionPatternFilled":null,"AnswerEntity":["弗洛里安·亨克尔·冯·多纳斯马","弗洛里安亨克尔冯多纳斯马","弗洛里安","亨克尔","多纳斯马"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"11度青春之《老男孩》","QuestionPatternFilled":null,"AnswerEntity":["肖央"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"11度青春之老男孩","QuestionPatternFilled":null,"AnswerEntity":["肖央"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"11度青春之","QuestionPatternFilled":null,"AnswerEntity":["肖央"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"老男孩","QuestionPatternFilled":null,"AnswerEntity":["肖央"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"度青春之老男孩","QuestionPatternFilled":null,"AnswerEntity":["肖央"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"度青春之","QuestionPatternFilled":null,"AnswerEntity":["肖央"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"霍比特人1：意外之旅","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"霍比特人1意外之旅","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"霍比特人1","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"意外之旅","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"霍比特人意外之旅","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"霍比特人","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"港囧","QuestionPatternFilled":null,"AnswerEntity":["徐峥"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"爱在黎明破晓前","QuestionPatternFilled":null,"AnswerEntity":["理查德·林克莱特","理查德林克莱特","理查德","林克莱特"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"爱丽丝梦游仙境","QuestionPatternFilled":null,"AnswerEntity":["蒂姆·波顿","蒂姆波顿","蒂姆","波顿","蒂姆·伯顿","蒂姆伯顿","伯顿"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"无耻混蛋","QuestionPatternFilled":null,"AnswerEntity":["昆汀·塔伦蒂诺","昆汀塔伦蒂诺","昆汀","塔伦蒂诺","伊莱·罗斯","伊莱罗斯","伊莱","罗斯","昆汀·塔伦蒂诺、伊莱·罗斯","昆汀塔伦蒂诺伊莱罗斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"钢铁侠","QuestionPatternFilled":null,"AnswerEntity":["乔恩·费儒","乔恩费儒","乔恩","费儒","jon favreau","jonfavreau","jon","favreau","jon favreau废除","jonfavreau废除","favreau废除"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"悲惨世界","QuestionPatternFilled":null,"AnswerEntity":["汤姆·霍珀","汤姆霍珀","汤姆","霍珀","tom hooper","tomhooper","tom","hooper","汤姆·霍伯","汤姆霍伯","霍伯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"饥饿游戏","QuestionPatternFilled":null,"AnswerEntity":["gary ross","garyross","gary","ross","盖瑞·罗斯","盖瑞罗斯","盖瑞","罗斯","加里·罗斯","加里罗斯","加里"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"变形金刚3","QuestionPatternFilled":null,"AnswerEntity":["迈克尔·贝","迈克尔贝","迈克尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"变形金刚","QuestionPatternFilled":null,"AnswerEntity":["迈克尔·贝","迈克尔贝","迈克尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"美国队长2","QuestionPatternFilled":null,"AnswerEntity":["安东尼·罗素","安东尼罗素","安东尼","罗素","乔·卢素","乔卢素","卢素","乔·罗素","乔罗素","安东尼·卢素","安东尼卢素","安东尼·罗素、乔·罗素","安东尼罗素乔罗素"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"美国队长","QuestionPatternFilled":null,"AnswerEntity":["安东尼·罗素","安东尼罗素","安东尼","罗素","乔·卢素","乔卢素","卢素","乔·罗素","乔罗素","安东尼·卢素","安东尼卢素","安东尼·罗素、乔·罗素","安东尼罗素乔罗素"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"奇异博士","QuestionPatternFilled":null,"AnswerEntity":["斯科特·德瑞克森","斯科特德瑞克森","斯科特","德瑞克森","斯科特·德里克森","斯科特德里克森","德里克森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"借东西的小人阿莉埃蒂","QuestionPatternFilled":null,"AnswerEntity":["米林宏昌"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"僵尸新娘","QuestionPatternFilled":null,"AnswerEntity":["蒂姆·波顿","蒂姆波顿","蒂姆","波顿","迈克·约翰逊","迈克约翰逊","迈克","约翰逊","麦克·约翰森","麦克约翰森","麦克","约翰森","mike johnson","mikejohnson","mike","johnson","蒂姆·伯顿","蒂姆伯顿","伯顿","蒂姆·伯顿、麦克·约翰森","蒂姆伯顿麦克约翰森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"煎饼侠","QuestionPatternFilled":null,"AnswerEntity":["大鹏","董成鹏"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"速度与激情5","QuestionPatternFilled":null,"AnswerEntity":["林诣彬"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"速度与激情","QuestionPatternFilled":null,"AnswerEntity":["林诣彬"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"艋舺","QuestionPatternFilled":null,"AnswerEntity":["钮承泽"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"唐山大地震","QuestionPatternFilled":null,"AnswerEntity":["冯小刚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"后天","QuestionPatternFilled":null,"AnswerEntity":["罗兰·艾默里奇","罗兰艾默里奇","罗兰","艾默里奇","罗兰德·艾默里克","罗兰德艾默里克","罗兰德","艾默里克"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"猫鼠游戏","QuestionPatternFilled":null,"AnswerEntity":["史蒂文·斯皮尔伯格","史蒂文斯皮尔伯格","史蒂文","斯皮尔伯格","斯蒂文·斯皮尔伯格","斯蒂文斯皮尔伯格","斯蒂文"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"侏罗纪世界","QuestionPatternFilled":null,"AnswerEntity":["科林·特雷沃罗","科林特雷沃罗","科林","特雷沃罗","colin trevorrow","colintrevorrow","colin","trevorrow","科林·特莱沃若","科林特莱沃若","特莱沃若"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"海角七号","QuestionPatternFilled":null,"AnswerEntity":["魏德圣"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"头脑特工队","QuestionPatternFilled":null,"AnswerEntity":["ronaldo del carmen","ronaldodelcarmen","ronaldo","del","carmen","罗纳尔多·德尔·卡门","罗纳尔多德尔卡门","罗纳尔多","德尔","卡门","彼特·道格特","彼特道格特","彼特","道格特","罗尼·德尔卡门","罗尼德尔卡门","罗尼","德尔卡门"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"复仇者联盟2：奥创纪元","QuestionPatternFilled":null,"AnswerEntity":["乔斯·韦登","乔斯韦登","乔斯","韦登"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"复仇者联盟2奥创纪元","QuestionPatternFilled":null,"AnswerEntity":["乔斯·韦登","乔斯韦登","乔斯","韦登"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"复仇者联盟2","QuestionPatternFilled":null,"AnswerEntity":["乔斯·韦登","乔斯韦登","乔斯","韦登"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"奥创纪元","QuestionPatternFilled":null,"AnswerEntity":["乔斯·韦登","乔斯韦登","乔斯","韦登"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"复仇者联盟奥创纪元","QuestionPatternFilled":null,"AnswerEntity":["乔斯·韦登","乔斯韦登","乔斯","韦登"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"复仇者联盟","QuestionPatternFilled":null,"AnswerEntity":["乔斯·韦登","乔斯韦登","乔斯","韦登"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"智取威虎山","QuestionPatternFilled":null,"AnswerEntity":["徐克"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"恐怖直播","QuestionPatternFilled":null,"AnswerEntity":["金秉祐","金秉宇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"钢铁侠3","QuestionPatternFilled":null,"AnswerEntity":["沙恩·布莱克","沙恩布莱克","沙恩","布莱克"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"钢铁侠","QuestionPatternFilled":null,"AnswerEntity":["沙恩·布莱克","沙恩布莱克","沙恩","布莱克"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"青蛇","QuestionPatternFilled":null,"AnswerEntity":["徐克"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"荒野猎人","QuestionPatternFilled":null,"AnswerEntity":["亚利桑德罗·冈萨雷斯·伊纳里多","亚利桑德罗冈萨雷斯伊纳里多","亚利桑德罗","冈萨雷斯","伊纳里多","亚利桑德罗·冈萨雷斯·伊纳里图","亚利桑德罗冈萨雷斯伊纳里图","伊纳里图","阿加多·冈萨雷斯·伊纳里多","阿加多冈萨雷斯伊纳里多","阿加多","alejandro gonzález iñárritu","alejandrogonzáleziñárritu","alejandro","gonzález","iñárritu"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"萤火虫之墓","QuestionPatternFilled":null,"AnswerEntity":["高畑勋"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"变脸","QuestionPatternFilled":null,"AnswerEntity":["吴天明","吴宇森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗4：惊涛怪浪","QuestionPatternFilled":null,"AnswerEntity":["罗伯·马歇尔","罗伯马歇尔","罗伯","马歇尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗4惊涛怪浪","QuestionPatternFilled":null,"AnswerEntity":["罗伯·马歇尔","罗伯马歇尔","罗伯","马歇尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗4","QuestionPatternFilled":null,"AnswerEntity":["罗伯·马歇尔","罗伯马歇尔","罗伯","马歇尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"惊涛怪浪","QuestionPatternFilled":null,"AnswerEntity":["罗伯·马歇尔","罗伯马歇尔","罗伯","马歇尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗惊涛怪浪","QuestionPatternFilled":null,"AnswerEntity":["罗伯·马歇尔","罗伯马歇尔","罗伯","马歇尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗","QuestionPatternFilled":null,"AnswerEntity":["罗伯·马歇尔","罗伯马歇尔","罗伯","马歇尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"疯狂的麦克斯4：狂暴之路","QuestionPatternFilled":null,"AnswerEntity":["乔治·米勒","乔治米勒","乔治","米勒","george miller","georgemiller","george","miller"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"疯狂的麦克斯4狂暴之路","QuestionPatternFilled":null,"AnswerEntity":["乔治·米勒","乔治米勒","乔治","米勒","george miller","georgemiller","george","miller"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"疯狂的麦克斯4","QuestionPatternFilled":null,"AnswerEntity":["乔治·米勒","乔治米勒","乔治","米勒","george miller","georgemiller","george","miller"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"狂暴之路","QuestionPatternFilled":null,"AnswerEntity":["乔治·米勒","乔治米勒","乔治","米勒","george miller","georgemiller","george","miller"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"疯狂的麦克斯狂暴之路","QuestionPatternFilled":null,"AnswerEntity":["乔治·米勒","乔治米勒","乔治","米勒","george miller","georgemiller","george","miller"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"疯狂的麦克斯","QuestionPatternFilled":null,"AnswerEntity":["乔治·米勒","乔治米勒","乔治","米勒","george miller","georgemiller","george","miller"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"乘风破浪","QuestionPatternFilled":null,"AnswerEntity":["韩寒"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"穆赫兰道","QuestionPatternFilled":null,"AnswerEntity":["大卫·林奇","大卫林奇","大卫","林奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"钢琴家","QuestionPatternFilled":null,"AnswerEntity":["罗曼·波兰斯基","罗曼波兰斯基","罗曼","波兰斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"长城","QuestionPatternFilled":null,"AnswerEntity":["张艺谋"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"曾经","QuestionPatternFilled":null,"AnswerEntity":["john carney","johncarney","john","carney","约翰·卡尼","约翰卡尼","约翰","卡尼"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"查理和巧克力工厂","QuestionPatternFilled":null,"AnswerEntity":["蒂姆·波顿","蒂姆波顿","蒂姆","波顿","蒂姆·伯顿","蒂姆伯顿","伯顿"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"海底总动员","QuestionPatternFilled":null,"AnswerEntity":["李·昂克里奇","李昂克里奇","昂克里奇","安德鲁·斯坦顿","安德鲁斯坦顿","安德鲁","斯坦顿"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"变形金刚4：绝迹重生","QuestionPatternFilled":null,"AnswerEntity":["迈克尔·贝","迈克尔贝","迈克尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"变形金刚4绝迹重生","QuestionPatternFilled":null,"AnswerEntity":["迈克尔·贝","迈克尔贝","迈克尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"变形金刚4","QuestionPatternFilled":null,"AnswerEntity":["迈克尔·贝","迈克尔贝","迈克尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"绝迹重生","QuestionPatternFilled":null,"AnswerEntity":["迈克尔·贝","迈克尔贝","迈克尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"变形金刚绝迹重生","QuestionPatternFilled":null,"AnswerEntity":["迈克尔·贝","迈克尔贝","迈克尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"变形金刚","QuestionPatternFilled":null,"AnswerEntity":["迈克尔·贝","迈克尔贝","迈克尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"爱在日落黄昏时","QuestionPatternFilled":null,"AnswerEntity":["理查德·林克莱特","理查德林克莱特","理查德","林克莱特","理查得·林克莱特","理查得林克莱特","理查得"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"初恋50次","QuestionPatternFilled":null,"AnswerEntity":["彼得·西格尔","彼得西格尔","彼得","西格尔","彼德·席戈尔","彼德席戈尔","彼德","席戈尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"初恋次","QuestionPatternFilled":null,"AnswerEntity":["彼得·西格尔","彼得西格尔","彼得","西格尔","彼德·席戈尔","彼德席戈尔","彼德","席戈尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"催眠大师","QuestionPatternFilled":null,"AnswerEntity":["陈正道"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"霍比特人2：史矛革之战","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"霍比特人2史矛革之战","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"霍比特人2","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"史矛革之战","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"霍比特人史矛革之战","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"霍比特人","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"大侦探福尔摩斯","QuestionPatternFilled":null,"AnswerEntity":["盖·里奇","盖里奇","里奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"孤儿怨","QuestionPatternFilled":null,"AnswerEntity":["佐米·希尔拉","佐米希尔拉","佐米","希尔拉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"桃姐","QuestionPatternFilled":null,"AnswerEntity":["许鞍华"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"叶问","QuestionPatternFilled":null,"AnswerEntity":["叶伟信"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"泰迪熊","QuestionPatternFilled":null,"AnswerEntity":["塞思·麦克法兰","塞思麦克法兰","塞思","麦克法兰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"宝贝计划","QuestionPatternFilled":null,"AnswerEntity":["陈木胜"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"我是传奇","QuestionPatternFilled":null,"AnswerEntity":["弗朗西斯·劳伦斯","弗朗西斯劳伦斯","弗朗西斯","劳伦斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗2：聚魂棺","QuestionPatternFilled":null,"AnswerEntity":["戈尔·维宾斯基","戈尔维宾斯基","戈尔","维宾斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗2聚魂棺","QuestionPatternFilled":null,"AnswerEntity":["戈尔·维宾斯基","戈尔维宾斯基","戈尔","维宾斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗2","QuestionPatternFilled":null,"AnswerEntity":["戈尔·维宾斯基","戈尔维宾斯基","戈尔","维宾斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"聚魂棺","QuestionPatternFilled":null,"AnswerEntity":["戈尔·维宾斯基","戈尔维宾斯基","戈尔","维宾斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗聚魂棺","QuestionPatternFilled":null,"AnswerEntity":["戈尔·维宾斯基","戈尔维宾斯基","戈尔","维宾斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗","QuestionPatternFilled":null,"AnswerEntity":["戈尔·维宾斯基","戈尔维宾斯基","戈尔","维宾斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"夜访吸血鬼","QuestionPatternFilled":null,"AnswerEntity":["尼尔·乔丹","尼尔乔丹","尼尔","乔丹"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"诺丁山","QuestionPatternFilled":null,"AnswerEntity":["罗杰·米歇尔","罗杰米歇尔","罗杰","米歇尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"杀死比尔","QuestionPatternFilled":null,"AnswerEntity":["昆汀·塔伦蒂诺","昆汀塔伦蒂诺","昆汀","塔伦蒂诺"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"人工智能","QuestionPatternFilled":null,"AnswerEntity":["史蒂文·斯皮尔伯格","史蒂文斯皮尔伯格","史蒂文","斯皮尔伯格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"山楂树之恋","QuestionPatternFilled":null,"AnswerEntity":["张艺谋"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"魔女宅急便","QuestionPatternFilled":null,"AnswerEntity":["宫崎骏","toru hara","toruhara","toru","hara"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"饮食男女","QuestionPatternFilled":null,"AnswerEntity":["李安"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"小鬼当家","QuestionPatternFilled":null,"AnswerEntity":["克里斯·哥伦布","克里斯哥伦布","克里斯","哥伦布"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"谍影重重","QuestionPatternFilled":null,"AnswerEntity":["道格·里曼","道格里曼","道格","里曼","doug liman","dougliman","doug","liman"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"X战警：天启","QuestionPatternFilled":null,"AnswerEntity":["布莱恩·辛格","布莱恩辛格","布莱恩","辛格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"X战警天启","QuestionPatternFilled":null,"AnswerEntity":["布莱恩·辛格","布莱恩辛格","布莱恩","辛格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"X战警","QuestionPatternFilled":null,"AnswerEntity":["布莱恩·辛格","布莱恩辛格","布莱恩","辛格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"蚁人","QuestionPatternFilled":null,"AnswerEntity":["peyton reed","peytonreed","peyton","reed","佩顿·里德","佩顿里德","佩顿","里德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"海豚湾","QuestionPatternFilled":null,"AnswerEntity":["路易·西霍尤斯","路易西霍尤斯","路易","西霍尤斯","路易·皮斯霍斯","路易皮斯霍斯","皮斯霍斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"教父2","QuestionPatternFilled":null,"AnswerEntity":["弗朗西斯·福特·科波拉","弗朗西斯福特科波拉","弗朗西斯","福特","科波拉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"教父","QuestionPatternFilled":null,"AnswerEntity":["弗朗西斯·福特·科波拉","弗朗西斯福特科波拉","弗朗西斯","福特","科波拉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"将爱情进行到底","QuestionPatternFilled":null,"AnswerEntity":["张一白"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"九品芝麻官","QuestionPatternFilled":null,"AnswerEntity":["王晶"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"晚秋","QuestionPatternFilled":null,"AnswerEntity":["金泰勇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"魔兽","QuestionPatternFilled":null,"AnswerEntity":["邓肯·琼斯","邓肯琼斯","邓肯","琼斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"美国丽人","QuestionPatternFilled":null,"AnswerEntity":["萨姆·门德斯","萨姆门德斯","萨姆","门德斯","山姆·门德斯","山姆门德斯","山姆"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"玩具总动员3","QuestionPatternFilled":null,"AnswerEntity":["李·昂克里奇","李昂克里奇","昂克里奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"玩具总动员","QuestionPatternFilled":null,"AnswerEntity":["李·昂克里奇","李昂克里奇","昂克里奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"分手大师","QuestionPatternFilled":null,"AnswerEntity":["邓超","俞白眉","俞白眉 邓超","俞白眉邓超"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"杜拉拉升职记","QuestionPatternFilled":null,"AnswerEntity":["徐静蕾","安韩瑾","王芸","赵梦"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"发条橙","QuestionPatternFilled":null,"AnswerEntity":["斯坦利·库布里克","斯坦利库布里克","斯坦利","库布里克","斯坦利·库布里克stanley kubrick[1]","斯坦利库布里克stanleykubrick[1]","库布里克stanley","kubrick[1]"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"比利·林恩的中场战事","QuestionPatternFilled":null,"AnswerEntity":["李安"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"比利林恩的中场战事","QuestionPatternFilled":null,"AnswerEntity":["李安"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"林恩的中场战事","QuestionPatternFilled":null,"AnswerEntity":["李安"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗3：世界的尽头","QuestionPatternFilled":null,"AnswerEntity":["戈尔·维宾斯基","戈尔维宾斯基","戈尔","维宾斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗3世界的尽头","QuestionPatternFilled":null,"AnswerEntity":["戈尔·维宾斯基","戈尔维宾斯基","戈尔","维宾斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗3","QuestionPatternFilled":null,"AnswerEntity":["戈尔·维宾斯基","戈尔维宾斯基","戈尔","维宾斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"世界的尽头","QuestionPatternFilled":null,"AnswerEntity":["戈尔·维宾斯基","戈尔维宾斯基","戈尔","维宾斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗世界的尽头","QuestionPatternFilled":null,"AnswerEntity":["戈尔·维宾斯基","戈尔维宾斯基","戈尔","维宾斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"加勒比海盗","QuestionPatternFilled":null,"AnswerEntity":["戈尔·维宾斯基","戈尔维宾斯基","戈尔","维宾斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"时空恋旅人","QuestionPatternFilled":null,"AnswerEntity":["理查德·柯蒂斯","理查德柯蒂斯","理查德","柯蒂斯","理查德德·柯蒂斯","理查德德柯蒂斯","理查德德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"重返20岁","QuestionPatternFilled":null,"AnswerEntity":["陈正道"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"重返岁","QuestionPatternFilled":null,"AnswerEntity":["陈正道"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"食神","QuestionPatternFilled":null,"AnswerEntity":["周星驰","李力持","周星驰 、李力持","周星驰李力持"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"一步之遥","QuestionPatternFilled":null,"AnswerEntity":["姜文"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"绣春刀","QuestionPatternFilled":null,"AnswerEntity":["路阳"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"火锅英雄","QuestionPatternFilled":null,"AnswerEntity":["杨庆"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"碟中谍5：神秘国度","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·麦奎里","克里斯托弗麦奎里","克里斯托弗","麦奎里","christopher mcquarrie","christophermcquarrie","christopher","mcquarrie","克里斯托夫·迈考利","克里斯托夫迈考利","克里斯托夫","迈考利"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"碟中谍5神秘国度","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·麦奎里","克里斯托弗麦奎里","克里斯托弗","麦奎里","christopher mcquarrie","christophermcquarrie","christopher","mcquarrie","克里斯托夫·迈考利","克里斯托夫迈考利","克里斯托夫","迈考利"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"碟中谍5","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·麦奎里","克里斯托弗麦奎里","克里斯托弗","麦奎里","christopher mcquarrie","christophermcquarrie","christopher","mcquarrie","克里斯托夫·迈考利","克里斯托夫迈考利","克里斯托夫","迈考利"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"神秘国度","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·麦奎里","克里斯托弗麦奎里","克里斯托弗","麦奎里","christopher mcquarrie","christophermcquarrie","christopher","mcquarrie","克里斯托夫·迈考利","克里斯托夫迈考利","克里斯托夫","迈考利"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"碟中谍神秘国度","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·麦奎里","克里斯托弗麦奎里","克里斯托弗","麦奎里","christopher mcquarrie","christophermcquarrie","christopher","mcquarrie","克里斯托夫·迈考利","克里斯托夫迈考利","克里斯托夫","迈考利"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"碟中谍","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·麦奎里","克里斯托弗麦奎里","克里斯托弗","麦奎里","christopher mcquarrie","christophermcquarrie","christopher","mcquarrie","克里斯托夫·迈考利","克里斯托夫迈考利","克里斯托夫","迈考利"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"无敌破坏王","QuestionPatternFilled":null,"AnswerEntity":["瑞奇·摩尔","瑞奇摩尔","瑞奇","摩尔","瑞奇·莫尔","瑞奇莫尔","莫尔","里奇·摩尔","里奇摩尔","里奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"功夫熊猫3","QuestionPatternFilled":null,"AnswerEntity":["乔纳森·阿贝尔","乔纳森阿贝尔","乔纳森","阿贝尔","格伦·伯杰","格伦伯杰","格伦","伯杰","吕寅荣","亚力山德罗·卡罗尼","亚力山德罗卡罗尼","亚力山德罗","卡罗尼","亚历山德罗·卡罗尼","亚历山德罗卡罗尼","亚历山德罗","余仁英","詹妮弗·余","詹妮弗余","詹妮弗","alessandro carloni","alessandrocarloni","alessandro","carloni","吕寅荣,亚力山德罗·卡罗尼","吕寅荣,亚力山德罗卡罗尼","吕寅荣,亚力山德罗","吕寅荣、亚历山德罗·卡罗尼","吕寅荣亚历山德罗卡罗尼"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"功夫熊猫","QuestionPatternFilled":null,"AnswerEntity":["乔纳森·阿贝尔","乔纳森阿贝尔","乔纳森","阿贝尔","格伦·伯杰","格伦伯杰","格伦","伯杰","吕寅荣","亚力山德罗·卡罗尼","亚力山德罗卡罗尼","亚力山德罗","卡罗尼","亚历山德罗·卡罗尼","亚历山德罗卡罗尼","亚历山德罗","余仁英","詹妮弗·余","詹妮弗余","詹妮弗","alessandro carloni","alessandrocarloni","alessandro","carloni","吕寅荣,亚力山德罗·卡罗尼","吕寅荣,亚力山德罗卡罗尼","吕寅荣,亚力山德罗","吕寅荣、亚历山德罗·卡罗尼","吕寅荣亚历山德罗卡罗尼"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"谍影重重3","QuestionPatternFilled":null,"AnswerEntity":["保罗·格林格拉斯","保罗格林格拉斯","保罗","格林格拉斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"谍影重重","QuestionPatternFilled":null,"AnswerEntity":["保罗·格林格拉斯","保罗格林格拉斯","保罗","格林格拉斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"归来","QuestionPatternFilled":null,"AnswerEntity":["张艺谋"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"悬崖上的金鱼姬","QuestionPatternFilled":null,"AnswerEntity":["宫崎骏"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"美国往事","QuestionPatternFilled":null,"AnswerEntity":["赛尔乔·莱翁内","赛尔乔莱翁内","赛尔乔","莱翁内","赛尔乔·莱昂内","赛尔乔莱昂内","莱昂内","sergio leone","sergioleone","sergio","leone"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"风之谷","QuestionPatternFilled":null,"AnswerEntity":["宫崎骏"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"菊次郎的夏天","QuestionPatternFilled":null,"AnswerEntity":["北野武"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"朱诺","QuestionPatternFilled":null,"AnswerEntity":["贾森·雷特曼","贾森雷特曼","贾森","雷特曼","杰森·雷特曼","杰森雷特曼","杰森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哈利·波特与密室","QuestionPatternFilled":null,"AnswerEntity":["克里斯·哥伦布","克里斯哥伦布","克里斯","哥伦布"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哈利波特与密室","QuestionPatternFilled":null,"AnswerEntity":["克里斯·哥伦布","克里斯哥伦布","克里斯","哥伦布"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"波特与密室","QuestionPatternFilled":null,"AnswerEntity":["克里斯·哥伦布","克里斯哥伦布","克里斯","哥伦布"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"新龙门客栈","QuestionPatternFilled":null,"AnswerEntity":["徐克","李惠民","程小东"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"金刚狼3：殊死一战","QuestionPatternFilled":null,"AnswerEntity":["詹姆斯·曼高德","詹姆斯曼高德","詹姆斯","曼高德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"金刚狼3殊死一战","QuestionPatternFilled":null,"AnswerEntity":["詹姆斯·曼高德","詹姆斯曼高德","詹姆斯","曼高德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"金刚狼3","QuestionPatternFilled":null,"AnswerEntity":["詹姆斯·曼高德","詹姆斯曼高德","詹姆斯","曼高德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"殊死一战","QuestionPatternFilled":null,"AnswerEntity":["詹姆斯·曼高德","詹姆斯曼高德","詹姆斯","曼高德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"金刚狼殊死一战","QuestionPatternFilled":null,"AnswerEntity":["詹姆斯·曼高德","詹姆斯曼高德","詹姆斯","曼高德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"金刚狼","QuestionPatternFilled":null,"AnswerEntity":["詹姆斯·曼高德","詹姆斯曼高德","詹姆斯","曼高德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"英国病人","QuestionPatternFilled":null,"AnswerEntity":["安东尼·明格拉","安东尼明格拉","安东尼","明格拉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"阿飞正传","QuestionPatternFilled":null,"AnswerEntity":["王家卫"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"雏菊","QuestionPatternFilled":null,"AnswerEntity":["刘伟强"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"公主日记","QuestionPatternFilled":null,"AnswerEntity":["加里·马歇尔","加里马歇尔","加里","马歇尔","盖瑞·马歇尔","盖瑞马歇尔","盖瑞"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"这个男人来自地球","QuestionPatternFilled":null,"AnswerEntity":["理查德·沙因克曼","理查德沙因克曼","理查德","沙因克曼","richard schenkman","richardschenkman","richard","schenkman","理查德·申克曼","理查德申克曼","申克曼"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"逃离德黑兰","QuestionPatternFilled":null,"AnswerEntity":["本·阿弗莱克","本阿弗莱克","阿弗莱克"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"超脱","QuestionPatternFilled":null,"AnswerEntity":["tony kaye","tonykaye","tony","kaye","托尼·凯耶","托尼凯耶","托尼","凯耶","东尼·凯耶","东尼凯耶","东尼"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"私人订制","QuestionPatternFilled":null,"AnswerEntity":["冯小刚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"十二怒汉","QuestionPatternFilled":null,"AnswerEntity":["西德尼·吕美特","西德尼吕美特","西德尼","吕美特","sidney lumet","sidneylumet","sidney","lumet"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"素媛","QuestionPatternFilled":null,"AnswerEntity":["李濬益","李浚益","李俊益"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"海盗电台","QuestionPatternFilled":null,"AnswerEntity":["理查德·柯蒂斯","理查德柯蒂斯","理查德","柯蒂斯","理查德德·柯蒂斯","理查德德柯蒂斯","理查德德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"海扁王","QuestionPatternFilled":null,"AnswerEntity":["马修·沃恩","马修沃恩","马修","沃恩"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"画皮2","QuestionPatternFilled":null,"AnswerEntity":["乌尔善"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"画皮","QuestionPatternFilled":null,"AnswerEntity":["乌尔善"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"罗曼蒂克消亡史","QuestionPatternFilled":null,"AnswerEntity":["程耳"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"铁甲钢拳","QuestionPatternFilled":null,"AnswerEntity":["肖恩·利维","肖恩利维","肖恩","利维"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"金刚","QuestionPatternFilled":null,"AnswerEntity":["彼得·杰克逊","彼得杰克逊","彼得","杰克逊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"7号房的礼物","QuestionPatternFilled":null,"AnswerEntity":["李焕庆"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"号房的礼物","QuestionPatternFilled":null,"AnswerEntity":["李焕庆"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"窃听风云2","QuestionPatternFilled":null,"AnswerEntity":["麦兆辉","庄文强","麦兆辉、庄文强","麦兆辉庄文强"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"窃听风云","QuestionPatternFilled":null,"AnswerEntity":["麦兆辉","庄文强","麦兆辉、庄文强","麦兆辉庄文强"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"达拉斯买家俱乐部","QuestionPatternFilled":null,"AnswerEntity":["让-马克·瓦雷","让马克瓦雷","马克","瓦雷","让·马克·瓦雷"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"侧耳倾听","QuestionPatternFilled":null,"AnswerEntity":["近藤喜文"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"在云端","QuestionPatternFilled":null,"AnswerEntity":["贾森·雷特曼","贾森雷特曼","贾森","雷特曼"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"我的个神啊","QuestionPatternFilled":null,"AnswerEntity":["拉吉库马尔·希拉尼","拉吉库马尔希拉尼","拉吉库马尔","希拉尼","拉库马·希拉尼","拉库马希拉尼","拉库马"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"厨子戏子痞子","QuestionPatternFilled":null,"AnswerEntity":["管虎"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"阳光小美女","QuestionPatternFilled":null,"AnswerEntity":["乔纳森·戴顿","乔纳森戴顿","乔纳森","戴顿","维莱莉·法瑞斯","维莱莉法瑞斯","维莱莉","法瑞斯","乔纳森·戴顿,维莱莉·法瑞斯","乔纳森戴顿,维莱莉法瑞斯","戴顿,维莱莉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"你看起来好像很好吃","QuestionPatternFilled":null,"AnswerEntity":["藤森雅也"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"万能钥匙","QuestionPatternFilled":null,"AnswerEntity":["伊恩·索夫特雷","伊恩索夫特雷","伊恩","索夫特雷"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"再次出发之纽约遇见你","QuestionPatternFilled":null,"AnswerEntity":["约翰·卡尼","约翰卡尼","约翰","卡尼"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑衣人","QuestionPatternFilled":null,"AnswerEntity":["巴里·索南菲尔德","巴里索南菲尔德","巴里","索南菲尔德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"上帝之城","QuestionPatternFilled":null,"AnswerEntity":["费尔南多·梅里尔斯","费尔南多梅里尔斯","费尔南多","梅里尔斯","卡迪亚·兰德","卡迪亚兰德","卡迪亚","兰德","费尔南多·梅里尔斯；卡迪亚·兰德","费尔南多梅里尔斯；卡迪亚兰德","梅里尔斯；卡迪亚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"恋空","QuestionPatternFilled":null,"AnswerEntity":["今井夏木"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哆啦A梦：伴我同行","QuestionPatternFilled":null,"AnswerEntity":["山崎贵","八木龙一","/","八木竜一","山崎貴","山崎贵,八木龙一,tony oliver","山崎贵,八木龙一,tonyoliver","山崎贵,八木龙一,tony","oliver","托尼·奥立佛","托尼奥立佛","托尼","奥立佛"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哆啦A梦伴我同行","QuestionPatternFilled":null,"AnswerEntity":["山崎贵","八木龙一","/","八木竜一","山崎貴","山崎贵,八木龙一,tony oliver","山崎贵,八木龙一,tonyoliver","山崎贵,八木龙一,tony","oliver","托尼·奥立佛","托尼奥立佛","托尼","奥立佛"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哆啦A梦","QuestionPatternFilled":null,"AnswerEntity":["山崎贵","八木龙一","/","八木竜一","山崎貴","山崎贵,八木龙一,tony oliver","山崎贵,八木龙一,tonyoliver","山崎贵,八木龙一,tony","oliver","托尼·奥立佛","托尼奥立佛","托尼","奥立佛"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"伴我同行","QuestionPatternFilled":null,"AnswerEntity":["山崎贵","八木龙一","/","八木竜一","山崎貴","山崎贵,八木龙一,tony oliver","山崎贵,八木龙一,tonyoliver","山崎贵,八木龙一,tony","oliver","托尼·奥立佛","托尼奥立佛","托尼","奥立佛"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"末代皇帝","QuestionPatternFilled":null,"AnswerEntity":["贝纳尔多·贝托鲁奇","贝纳尔多贝托鲁奇","贝纳尔多","贝托鲁奇","贝纳多·贝托鲁奇","贝纳多贝托鲁奇","贝纳多","贝纳尔多·贝托鲁奇 贝纳尔多·贝托鲁奇","贝纳尔多贝托鲁奇贝纳尔多贝托鲁奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"无间道2","QuestionPatternFilled":null,"AnswerEntity":["刘伟强","麦兆辉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"无间道","QuestionPatternFilled":null,"AnswerEntity":["刘伟强","麦兆辉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"奇幻森林","QuestionPatternFilled":null,"AnswerEntity":["乔恩·费儒","乔恩费儒","乔恩","费儒","jon favreau","jonfavreau","jon","favreau"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"猩球崛起2：黎明之战","QuestionPatternFilled":null,"AnswerEntity":["马特·里夫斯","马特里夫斯","马特","里夫斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"猩球崛起2黎明之战","QuestionPatternFilled":null,"AnswerEntity":["马特·里夫斯","马特里夫斯","马特","里夫斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"猩球崛起2","QuestionPatternFilled":null,"AnswerEntity":["马特·里夫斯","马特里夫斯","马特","里夫斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黎明之战","QuestionPatternFilled":null,"AnswerEntity":["马特·里夫斯","马特里夫斯","马特","里夫斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"猩球崛起黎明之战","QuestionPatternFilled":null,"AnswerEntity":["马特·里夫斯","马特里夫斯","马特","里夫斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"猩球崛起","QuestionPatternFilled":null,"AnswerEntity":["马特·里夫斯","马特里夫斯","马特","里夫斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"白日焰火","QuestionPatternFilled":null,"AnswerEntity":["刁亦男"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"战马","QuestionPatternFilled":null,"AnswerEntity":["史蒂文·斯皮尔伯格","史蒂文斯皮尔伯格","史蒂文","斯皮尔伯格","斯蒂文·斯皮尔伯格","斯蒂文斯皮尔伯格","斯蒂文"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"宿醉","QuestionPatternFilled":null,"AnswerEntity":["托德·菲利普斯","托德菲利普斯","托德","菲利普斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"钢铁侠2","QuestionPatternFilled":null,"AnswerEntity":["乔恩·费儒","乔恩费儒","乔恩","费儒","jon favreau","jonfavreau","jon","favreau","jon favreau废除","jonfavreau废除","favreau废除"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"钢铁侠","QuestionPatternFilled":null,"AnswerEntity":["乔恩·费儒","乔恩费儒","乔恩","费儒","jon favreau","jonfavreau","jon","favreau","jon favreau废除","jonfavreau废除","favreau废除"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哈利·波特与混血王子","QuestionPatternFilled":null,"AnswerEntity":["大卫·叶茨","大卫叶茨","大卫","叶茨","大卫·耶茨","大卫耶茨","耶茨"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哈利波特与混血王子","QuestionPatternFilled":null,"AnswerEntity":["大卫·叶茨","大卫叶茨","大卫","叶茨","大卫·耶茨","大卫耶茨","耶茨"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"波特与混血王子","QuestionPatternFilled":null,"AnswerEntity":["大卫·叶茨","大卫叶茨","大卫","叶茨","大卫·耶茨","大卫耶茨","耶茨"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"龙纹身的女孩","QuestionPatternFilled":null,"AnswerEntity":["大卫·芬奇","大卫芬奇","大卫","芬奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"同桌的妳","QuestionPatternFilled":null,"AnswerEntity":["郭帆"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"从你的全世界路过","QuestionPatternFilled":null,"AnswerEntity":["张一白"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"暮光之城2：新月","QuestionPatternFilled":null,"AnswerEntity":["克里斯·韦兹","克里斯韦兹","克里斯","韦兹"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"暮光之城2新月","QuestionPatternFilled":null,"AnswerEntity":["克里斯·韦兹","克里斯韦兹","克里斯","韦兹"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"暮光之城2","QuestionPatternFilled":null,"AnswerEntity":["克里斯·韦兹","克里斯韦兹","克里斯","韦兹"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"暮光之城新月","QuestionPatternFilled":null,"AnswerEntity":["克里斯·韦兹","克里斯韦兹","克里斯","韦兹"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"暮光之城","QuestionPatternFilled":null,"AnswerEntity":["克里斯·韦兹","克里斯韦兹","克里斯","韦兹"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"速度与激情6","QuestionPatternFilled":null,"AnswerEntity":["林诣彬"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"速度与激情","QuestionPatternFilled":null,"AnswerEntity":["林诣彬"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"谍影重重2","QuestionPatternFilled":null,"AnswerEntity":["保罗·格林格拉斯","保罗格林格拉斯","保罗","格林格拉斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"谍影重重","QuestionPatternFilled":null,"AnswerEntity":["保罗·格林格拉斯","保罗格林格拉斯","保罗","格林格拉斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"星际迷航2：暗黑无界","QuestionPatternFilled":null,"AnswerEntity":["j·j·艾布拉姆斯","jj艾布拉姆斯","艾布拉姆斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"星际迷航2暗黑无界","QuestionPatternFilled":null,"AnswerEntity":["j·j·艾布拉姆斯","jj艾布拉姆斯","艾布拉姆斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"星际迷航2","QuestionPatternFilled":null,"AnswerEntity":["j·j·艾布拉姆斯","jj艾布拉姆斯","艾布拉姆斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"暗黑无界","QuestionPatternFilled":null,"AnswerEntity":["j·j·艾布拉姆斯","jj艾布拉姆斯","艾布拉姆斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"星际迷航暗黑无界","QuestionPatternFilled":null,"AnswerEntity":["j·j·艾布拉姆斯","jj艾布拉姆斯","艾布拉姆斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"星际迷航","QuestionPatternFilled":null,"AnswerEntity":["j·j·艾布拉姆斯","jj艾布拉姆斯","艾布拉姆斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"彗星来的那一夜","QuestionPatternFilled":null,"AnswerEntity":["詹姆斯·沃德·布柯特","詹姆斯沃德布柯特","詹姆斯","沃德","布柯特","james ward byrkit","jameswardbyrkit","james","ward","byrkit"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"冰川时代3","QuestionPatternFilled":null,"AnswerEntity":["卡洛斯·沙尔丹哈","卡洛斯沙尔丹哈","卡洛斯","沙尔丹哈","麦克·特米尔","麦克特米尔","麦克","特米尔","卡洛斯·沙尔丹哈、麦克·特米尔","卡洛斯沙尔丹哈麦克特米尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"冰川时代","QuestionPatternFilled":null,"AnswerEntity":["卡洛斯·沙尔丹哈","卡洛斯沙尔丹哈","卡洛斯","沙尔丹哈","麦克·特米尔","麦克特米尔","麦克","特米尔","卡洛斯·沙尔丹哈、麦克·特米尔","卡洛斯沙尔丹哈麦克特米尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"听风者","QuestionPatternFilled":null,"AnswerEntity":["麦兆辉","庄文强","麦兆辉、庄文强","麦兆辉庄文强"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"狄仁杰之通天帝国","QuestionPatternFilled":null,"AnswerEntity":["徐克"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"北京遇上西雅图之不二情书","QuestionPatternFilled":null,"AnswerEntity":["薛晓路"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"神探夏洛克：可恶的新娘","QuestionPatternFilled":null,"AnswerEntity":["道格拉斯·麦金农","道格拉斯麦金农","道格拉斯","麦金农"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"神探夏洛克可恶的新娘","QuestionPatternFilled":null,"AnswerEntity":["道格拉斯·麦金农","道格拉斯麦金农","道格拉斯","麦金农"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"神探夏洛克","QuestionPatternFilled":null,"AnswerEntity":["道格拉斯·麦金农","道格拉斯麦金农","道格拉斯","麦金农"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"可恶的新娘","QuestionPatternFilled":null,"AnswerEntity":["道格拉斯·麦金农","道格拉斯麦金农","道格拉斯","麦金农"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"一一","QuestionPatternFilled":null,"AnswerEntity":["杨德昌"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"雪国列车","QuestionPatternFilled":null,"AnswerEntity":["奉俊昊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"辩护人","QuestionPatternFilled":null,"AnswerEntity":["杨宇硕","梁宇皙","杨宇锡","杨佑硕"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"我脑中的橡皮擦","QuestionPatternFilled":null,"AnswerEntity":["李宰汉","李载汉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"观音山","QuestionPatternFilled":null,"AnswerEntity":["李玉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"冰川时代4","QuestionPatternFilled":null,"AnswerEntity":["麦克·特米尔","麦克特米尔","麦克","特米尔","史蒂夫·马蒂诺","史蒂夫马蒂诺","史蒂夫","马蒂诺"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"冰川时代","QuestionPatternFilled":null,"AnswerEntity":["麦克·特米尔","麦克特米尔","麦克","特米尔","史蒂夫·马蒂诺","史蒂夫马蒂诺","史蒂夫","马蒂诺"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"死侍","QuestionPatternFilled":null,"AnswerEntity":["蒂姆·米勒","蒂姆米勒","蒂姆","米勒","tim miller","timmiller","tim","miller","提姆·米勒","提姆米勒","提姆"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"国产凌凌漆","QuestionPatternFilled":null,"AnswerEntity":["周星驰","李力持","周星驰、李力持","周星驰李力持"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"降临","QuestionPatternFilled":null,"AnswerEntity":["丹尼斯·维伦纽瓦","丹尼斯维伦纽瓦","丹尼斯","维伦纽瓦"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑客帝国3：矩阵革命","QuestionPatternFilled":null,"AnswerEntity":["莉莉·沃卓斯基","莉莉沃卓斯基","莉莉","沃卓斯基","安迪·沃卓斯基","安迪沃卓斯基","安迪","拉娜·沃卓斯基","拉娜沃卓斯基","拉娜","沃卓斯基兄弟"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑客帝国3矩阵革命","QuestionPatternFilled":null,"AnswerEntity":["莉莉·沃卓斯基","莉莉沃卓斯基","莉莉","沃卓斯基","安迪·沃卓斯基","安迪沃卓斯基","安迪","拉娜·沃卓斯基","拉娜沃卓斯基","拉娜","沃卓斯基兄弟"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑客帝国3","QuestionPatternFilled":null,"AnswerEntity":["莉莉·沃卓斯基","莉莉沃卓斯基","莉莉","沃卓斯基","安迪·沃卓斯基","安迪沃卓斯基","安迪","拉娜·沃卓斯基","拉娜沃卓斯基","拉娜","沃卓斯基兄弟"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"矩阵革命","QuestionPatternFilled":null,"AnswerEntity":["莉莉·沃卓斯基","莉莉沃卓斯基","莉莉","沃卓斯基","安迪·沃卓斯基","安迪沃卓斯基","安迪","拉娜·沃卓斯基","拉娜沃卓斯基","拉娜","沃卓斯基兄弟"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑客帝国矩阵革命","QuestionPatternFilled":null,"AnswerEntity":["莉莉·沃卓斯基","莉莉沃卓斯基","莉莉","沃卓斯基","安迪·沃卓斯基","安迪沃卓斯基","安迪","拉娜·沃卓斯基","拉娜沃卓斯基","拉娜","沃卓斯基兄弟"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑客帝国","QuestionPatternFilled":null,"AnswerEntity":["莉莉·沃卓斯基","莉莉沃卓斯基","莉莉","沃卓斯基","安迪·沃卓斯基","安迪沃卓斯基","安迪","拉娜·沃卓斯基","拉娜沃卓斯基","拉娜","沃卓斯基兄弟"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"燃情岁月","QuestionPatternFilled":null,"AnswerEntity":["爱德华·兹威克","爱德华兹威克","爱德华","兹威克"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"变相怪杰","QuestionPatternFilled":null,"AnswerEntity":["查克·拉塞尔","查克拉塞尔","查克","拉塞尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"重返十七岁","QuestionPatternFilled":null,"AnswerEntity":["布尔·斯蒂尔斯","布尔斯蒂尔斯","布尔","斯蒂尔斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"侏罗纪公园","QuestionPatternFilled":null,"AnswerEntity":["史蒂文·斯皮尔伯格","史蒂文斯皮尔伯格","史蒂文","斯皮尔伯格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"成为简·奥斯汀","QuestionPatternFilled":null,"AnswerEntity":["朱里安·杰拉德","朱里安杰拉德","朱里安","杰拉德","朱利安·杰拉德","朱利安杰拉德","朱利安"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"成为简奥斯汀","QuestionPatternFilled":null,"AnswerEntity":["朱里安·杰拉德","朱里安杰拉德","朱里安","杰拉德","朱利安·杰拉德","朱利安杰拉德","朱利安"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"成为简","QuestionPatternFilled":null,"AnswerEntity":["朱里安·杰拉德","朱里安杰拉德","朱里安","杰拉德","朱利安·杰拉德","朱利安杰拉德","朱利安"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"奥斯汀","QuestionPatternFilled":null,"AnswerEntity":["朱里安·杰拉德","朱里安杰拉德","朱里安","杰拉德","朱利安·杰拉德","朱利安杰拉德","朱利安"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"狼图腾","QuestionPatternFilled":null,"AnswerEntity":["让-雅克·阿诺","让雅克阿诺","雅克","阿诺","让·雅克·阿诺"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"死神来了","QuestionPatternFilled":null,"AnswerEntity":["黄毅瑜"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"超凡蜘蛛侠","QuestionPatternFilled":null,"AnswerEntity":["朱丽安妮·尼科尔森","朱丽安妮尼科尔森","朱丽安妮","尼科尔森","马克·韦布","马克韦布","马克","韦布"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"罗拉快跑","QuestionPatternFilled":null,"AnswerEntity":["汤姆·提克威","汤姆提克威","汤姆","提克威"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"独自等待","QuestionPatternFilled":null,"AnswerEntity":["伍仕贤","伍仕贤 dayyan eng","伍仕贤dayyaneng","dayyan","eng"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"达·芬奇密码","QuestionPatternFilled":null,"AnswerEntity":["朗·霍华德","朗霍华德","霍华德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"达芬奇密码","QuestionPatternFilled":null,"AnswerEntity":["朗·霍华德","朗霍华德","霍华德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"芬奇密码","QuestionPatternFilled":null,"AnswerEntity":["朗·霍华德","朗霍华德","霍华德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"蜘蛛侠","QuestionPatternFilled":null,"AnswerEntity":["山姆·雷米","山姆雷米","山姆","雷米"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"萤火之森","QuestionPatternFilled":null,"AnswerEntity":["大森贵弘"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"匆匆那年","QuestionPatternFilled":null,"AnswerEntity":["张一白"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"心迷宫","QuestionPatternFilled":null,"AnswerEntity":["忻钰坤"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"大侦探福尔摩斯2：诡影游戏","QuestionPatternFilled":null,"AnswerEntity":["盖·里奇","盖里奇","里奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"大侦探福尔摩斯2诡影游戏","QuestionPatternFilled":null,"AnswerEntity":["盖·里奇","盖里奇","里奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"大侦探福尔摩斯2","QuestionPatternFilled":null,"AnswerEntity":["盖·里奇","盖里奇","里奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"诡影游戏","QuestionPatternFilled":null,"AnswerEntity":["盖·里奇","盖里奇","里奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"大侦探福尔摩斯诡影游戏","QuestionPatternFilled":null,"AnswerEntity":["盖·里奇","盖里奇","里奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"大侦探福尔摩斯","QuestionPatternFilled":null,"AnswerEntity":["盖·里奇","盖里奇","里奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"全民目击","QuestionPatternFilled":null,"AnswerEntity":["非行"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"鸟人","QuestionPatternFilled":null,"AnswerEntity":["阿加多·冈萨雷斯·伊纳里多","阿加多冈萨雷斯伊纳里多","阿加多","冈萨雷斯","伊纳里多","亚利桑德罗·冈萨雷斯·伊纳里多","亚利桑德罗冈萨雷斯伊纳里多","亚利桑德罗","亚利桑德罗·冈萨雷斯·伊纳里图","亚利桑德罗冈萨雷斯伊纳里图","伊纳里图"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"叶问2：宗师传奇","QuestionPatternFilled":null,"AnswerEntity":["叶伟信"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"叶问2宗师传奇","QuestionPatternFilled":null,"AnswerEntity":["叶伟信"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"叶问2","QuestionPatternFilled":null,"AnswerEntity":["叶伟信"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"宗师传奇","QuestionPatternFilled":null,"AnswerEntity":["叶伟信"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"叶问宗师传奇","QuestionPatternFilled":null,"AnswerEntity":["叶伟信"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"金刚狼","QuestionPatternFilled":null,"AnswerEntity":["加文·胡德","加文胡德","加文","胡德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"水果硬糖","QuestionPatternFilled":null,"AnswerEntity":["大卫·斯雷德","大卫斯雷德","大卫","斯雷德","大卫·斯雷德/david slade","大卫斯雷德/davidslade","斯雷德/david","slade"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"寒战2","QuestionPatternFilled":null,"AnswerEntity":["陆剑青","梁乐民","梁乐民,陆剑青","梁乐民 陆剑青","梁乐民陆剑青","陆剑青、梁乐民","陆剑青梁乐民"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"寒战","QuestionPatternFilled":null,"AnswerEntity":["陆剑青","梁乐民","梁乐民,陆剑青","梁乐民 陆剑青","梁乐民陆剑青","陆剑青、梁乐民","陆剑青梁乐民"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"寂静岭","QuestionPatternFilled":null,"AnswerEntity":["克里斯多夫·甘斯","克里斯多夫甘斯","克里斯多夫","甘斯","克里斯托弗·甘斯","克里斯托弗甘斯","克里斯托弗"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"少林足球","QuestionPatternFilled":null,"AnswerEntity":["周星驰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"冰川时代2：融冰之灾","QuestionPatternFilled":null,"AnswerEntity":["卡洛斯·沙尔丹哈","卡洛斯沙尔丹哈","卡洛斯","沙尔丹哈"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"冰川时代2融冰之灾","QuestionPatternFilled":null,"AnswerEntity":["卡洛斯·沙尔丹哈","卡洛斯沙尔丹哈","卡洛斯","沙尔丹哈"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"冰川时代2","QuestionPatternFilled":null,"AnswerEntity":["卡洛斯·沙尔丹哈","卡洛斯沙尔丹哈","卡洛斯","沙尔丹哈"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"融冰之灾","QuestionPatternFilled":null,"AnswerEntity":["卡洛斯·沙尔丹哈","卡洛斯沙尔丹哈","卡洛斯","沙尔丹哈"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"冰川时代融冰之灾","QuestionPatternFilled":null,"AnswerEntity":["卡洛斯·沙尔丹哈","卡洛斯沙尔丹哈","卡洛斯","沙尔丹哈"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"冰川时代","QuestionPatternFilled":null,"AnswerEntity":["卡洛斯·沙尔丹哈","卡洛斯沙尔丹哈","卡洛斯","沙尔丹哈"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"X战警","QuestionPatternFilled":null,"AnswerEntity":["布莱恩·辛格","布莱恩辛格","布莱恩","辛格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"珍珠港","QuestionPatternFilled":null,"AnswerEntity":["迈克尔·贝","迈克尔贝","迈克尔","迈克尔·贝里","迈克尔贝里","贝里"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"花与爱丽丝","QuestionPatternFilled":null,"AnswerEntity":["岩井俊二"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"师父","QuestionPatternFilled":null,"AnswerEntity":["徐浩峰","徐皓峰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"美国队长","QuestionPatternFilled":null,"AnswerEntity":["乔·庄斯顿","乔庄斯顿","庄斯顿"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"赎罪","QuestionPatternFilled":null,"AnswerEntity":["乔·赖特","乔赖特","赖特","乔·怀特","乔怀特","怀特"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"暖暖内含光","QuestionPatternFilled":null,"AnswerEntity":["米歇尔·贡德里","米歇尔贡德里","米歇尔","贡德里","米歇尔·冈瑞","米歇尔冈瑞","冈瑞"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"华尔街之狼","QuestionPatternFilled":null,"AnswerEntity":["马丁·斯科塞斯","马丁斯科塞斯","马丁","斯科塞斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"人鬼情未了","QuestionPatternFilled":null,"AnswerEntity":["杰瑞·扎克","杰瑞扎克","杰瑞","扎克","杰里·朱克","杰里朱克","杰里","朱克","杰瑞·扎克斯jerry","杰瑞扎克斯jerry","扎克斯jerry"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"乌云背后的幸福线","QuestionPatternFilled":null,"AnswerEntity":["david o. russell","davido.russell","david","o.","russell","大卫·o·拉塞尔","大卫o拉塞尔","大卫","拉塞尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"一九四二","QuestionPatternFilled":null,"AnswerEntity":["冯小刚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"我，机器人","QuestionPatternFilled":null,"AnswerEntity":["亚历克斯·普罗亚斯","亚历克斯普罗亚斯","亚历克斯","普罗亚斯","亚力克斯·普洛亚","亚力克斯普洛亚","亚力克斯","普洛亚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"我机器人","QuestionPatternFilled":null,"AnswerEntity":["亚历克斯·普罗亚斯","亚历克斯普罗亚斯","亚历克斯","普罗亚斯","亚力克斯·普洛亚","亚力克斯普洛亚","亚力克斯","普洛亚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"机器人","QuestionPatternFilled":null,"AnswerEntity":["亚历克斯·普罗亚斯","亚历克斯普罗亚斯","亚历克斯","普罗亚斯","亚力克斯·普洛亚","亚力克斯普洛亚","亚力克斯","普洛亚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"英雄本色","QuestionPatternFilled":null,"AnswerEntity":["吴宇森","丁楚信"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"勇闯夺命岛","QuestionPatternFilled":null,"AnswerEntity":["迈克尔·贝","迈克尔贝","迈克尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"老男孩","QuestionPatternFilled":null,"AnswerEntity":["朴赞郁"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"独立日","QuestionPatternFilled":null,"AnswerEntity":["罗兰·艾默里奇","罗兰艾默里奇","罗兰","艾默里奇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哈利·波特与凤凰社","QuestionPatternFilled":null,"AnswerEntity":["大卫·叶茨","大卫叶茨","大卫","叶茨","大卫·耶茨","大卫耶茨","耶茨"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哈利波特与凤凰社","QuestionPatternFilled":null,"AnswerEntity":["大卫·叶茨","大卫叶茨","大卫","叶茨","大卫·耶茨","大卫耶茨","耶茨"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"波特与凤凰社","QuestionPatternFilled":null,"AnswerEntity":["大卫·叶茨","大卫叶茨","大卫","叶茨","大卫·耶茨","大卫耶茨","耶茨"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"饥饿游戏2：星火燎原","QuestionPatternFilled":null,"AnswerEntity":["弗朗西斯·劳伦斯","弗朗西斯劳伦斯","弗朗西斯","劳伦斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"饥饿游戏2星火燎原","QuestionPatternFilled":null,"AnswerEntity":["弗朗西斯·劳伦斯","弗朗西斯劳伦斯","弗朗西斯","劳伦斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"饥饿游戏2","QuestionPatternFilled":null,"AnswerEntity":["弗朗西斯·劳伦斯","弗朗西斯劳伦斯","弗朗西斯","劳伦斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"星火燎原","QuestionPatternFilled":null,"AnswerEntity":["弗朗西斯·劳伦斯","弗朗西斯劳伦斯","弗朗西斯","劳伦斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"饥饿游戏星火燎原","QuestionPatternFilled":null,"AnswerEntity":["弗朗西斯·劳伦斯","弗朗西斯劳伦斯","弗朗西斯","劳伦斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"饥饿游戏","QuestionPatternFilled":null,"AnswerEntity":["弗朗西斯·劳伦斯","弗朗西斯劳伦斯","弗朗西斯","劳伦斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"纵横四海","QuestionPatternFilled":null,"AnswerEntity":["吴宇森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"迷雾","QuestionPatternFilled":null,"AnswerEntity":["弗兰克·德拉邦特","弗兰克德拉邦特","弗兰克","德拉邦特","弗兰克·德拉邦特[2]","弗兰克德拉邦特[2]","德拉邦特[2]"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"博物馆奇妙夜","QuestionPatternFilled":null,"AnswerEntity":["肖恩·利维","肖恩利维","肖恩","利维"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"小时代2：青木时代","QuestionPatternFilled":null,"AnswerEntity":["郭敬明"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"小时代2青木时代","QuestionPatternFilled":null,"AnswerEntity":["郭敬明"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"小时代2","QuestionPatternFilled":null,"AnswerEntity":["郭敬明"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"青木时代","QuestionPatternFilled":null,"AnswerEntity":["郭敬明"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"小时代青木时代","QuestionPatternFilled":null,"AnswerEntity":["郭敬明"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"小时代","QuestionPatternFilled":null,"AnswerEntity":["郭敬明"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"BJ单身日记","QuestionPatternFilled":null,"AnswerEntity":["沙朗·马奎尔","沙朗马奎尔","沙朗","马奎尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"月球","QuestionPatternFilled":null,"AnswerEntity":["邓肯·琼斯","邓肯琼斯","邓肯","琼斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"终结者2：审判日","QuestionPatternFilled":null,"AnswerEntity":["斯坦·温斯顿","斯坦温斯顿","斯坦","温斯顿","詹姆斯·卡梅隆","詹姆斯卡梅隆","詹姆斯","卡梅隆","约翰·布鲁诺","约翰布鲁诺","约翰","布鲁诺","约翰·布鲁诺john","约翰布鲁诺john","布鲁诺john"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"终结者2审判日","QuestionPatternFilled":null,"AnswerEntity":["斯坦·温斯顿","斯坦温斯顿","斯坦","温斯顿","詹姆斯·卡梅隆","詹姆斯卡梅隆","詹姆斯","卡梅隆","约翰·布鲁诺","约翰布鲁诺","约翰","布鲁诺","约翰·布鲁诺john","约翰布鲁诺john","布鲁诺john"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"终结者2","QuestionPatternFilled":null,"AnswerEntity":["斯坦·温斯顿","斯坦温斯顿","斯坦","温斯顿","詹姆斯·卡梅隆","詹姆斯卡梅隆","詹姆斯","卡梅隆","约翰·布鲁诺","约翰布鲁诺","约翰","布鲁诺","约翰·布鲁诺john","约翰布鲁诺john","布鲁诺john"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"审判日","QuestionPatternFilled":null,"AnswerEntity":["斯坦·温斯顿","斯坦温斯顿","斯坦","温斯顿","詹姆斯·卡梅隆","詹姆斯卡梅隆","詹姆斯","卡梅隆","约翰·布鲁诺","约翰布鲁诺","约翰","布鲁诺","约翰·布鲁诺john","约翰布鲁诺john","布鲁诺john"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"终结者审判日","QuestionPatternFilled":null,"AnswerEntity":["斯坦·温斯顿","斯坦温斯顿","斯坦","温斯顿","詹姆斯·卡梅隆","詹姆斯卡梅隆","詹姆斯","卡梅隆","约翰·布鲁诺","约翰布鲁诺","约翰","布鲁诺","约翰·布鲁诺john","约翰布鲁诺john","布鲁诺john"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"终结者","QuestionPatternFilled":null,"AnswerEntity":["斯坦·温斯顿","斯坦温斯顿","斯坦","温斯顿","詹姆斯·卡梅隆","詹姆斯卡梅隆","詹姆斯","卡梅隆","约翰·布鲁诺","约翰布鲁诺","约翰","布鲁诺","约翰·布鲁诺john","约翰布鲁诺john","布鲁诺john"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"玩具总动员","QuestionPatternFilled":null,"AnswerEntity":["约翰·拉塞特","约翰拉塞特","约翰","拉塞特"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"大魔术师","QuestionPatternFilled":null,"AnswerEntity":["尔冬升"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"甲方乙方","QuestionPatternFilled":null,"AnswerEntity":["冯小刚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"武林外传","QuestionPatternFilled":null,"AnswerEntity":["尚敬","綦柏钧"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黄金大劫案","QuestionPatternFilled":null,"AnswerEntity":["宁浩"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"穿条纹睡衣的男孩","QuestionPatternFilled":null,"AnswerEntity":["马克·赫尔曼","马克赫尔曼","马克","赫尔曼","marc ruchmann","marcruchmann","marc","ruchmann","马克·赫曼","马克赫曼","赫曼"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"雨果","QuestionPatternFilled":null,"AnswerEntity":["马丁·斯科塞斯","马丁斯科塞斯","马丁","斯科塞斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"致命伴旅","QuestionPatternFilled":null,"AnswerEntity":["弗洛里安·亨克尔·冯·多纳斯马","弗洛里安亨克尔冯多纳斯马","弗洛里安","亨克尔","多纳斯马"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"武状元苏乞儿","QuestionPatternFilled":null,"AnswerEntity":["陈嘉上","林德禄"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"心慌方","QuestionPatternFilled":null,"AnswerEntity":["文森佐·纳塔利","文森佐纳塔利","文森佐","纳塔利","vincenzo natali","vincenzonatali","vincenzo","natali"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"新警察故事","QuestionPatternFilled":null,"AnswerEntity":["陈木胜"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"小鞋子","QuestionPatternFilled":null,"AnswerEntity":["马基德·马基迪","马基德马基迪","马基德","马基迪","马吉德·马吉迪","马吉德马吉迪","马吉德","马吉迪"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"鹿鼎记","QuestionPatternFilled":null,"AnswerEntity":["王晶","程小东","陈嘉上"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"第36个故事","QuestionPatternFilled":null,"AnswerEntity":["萧雅全"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"第个故事","QuestionPatternFilled":null,"AnswerEntity":["萧雅全"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"个故事","QuestionPatternFilled":null,"AnswerEntity":["萧雅全"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"女朋友○男朋友","QuestionPatternFilled":null,"AnswerEntity":["杨雅喆"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"夜·店","QuestionPatternFilled":null,"AnswerEntity":["杨庆"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"夜店","QuestionPatternFilled":null,"AnswerEntity":["杨庆"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"爱情与灵药","QuestionPatternFilled":null,"AnswerEntity":["爱德华·兹威克","爱德华兹威克","爱德华","兹威克"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"关于莉莉周的一切","QuestionPatternFilled":null,"AnswerEntity":["岩井俊二"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"蝙蝠侠：侠影之谜","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·诺兰","克里斯托弗诺兰","克里斯托弗","诺兰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"蝙蝠侠侠影之谜","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·诺兰","克里斯托弗诺兰","克里斯托弗","诺兰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"蝙蝠侠","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·诺兰","克里斯托弗诺兰","克里斯托弗","诺兰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"侠影之谜","QuestionPatternFilled":null,"AnswerEntity":["克里斯托弗·诺兰","克里斯托弗诺兰","克里斯托弗","诺兰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"一次别离","QuestionPatternFilled":null,"AnswerEntity":["阿斯哈·法哈蒂","阿斯哈法哈蒂","阿斯哈","法哈蒂"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"飓风营救","QuestionPatternFilled":null,"AnswerEntity":["皮埃尔·莫瑞尔","皮埃尔莫瑞尔","皮埃尔","莫瑞尔","pierre morel","pierremorel","pierre","morel"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"无间道3：终极无间","QuestionPatternFilled":null,"AnswerEntity":["刘伟强","麦兆辉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"无间道3终极无间","QuestionPatternFilled":null,"AnswerEntity":["刘伟强","麦兆辉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"无间道3","QuestionPatternFilled":null,"AnswerEntity":["刘伟强","麦兆辉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"终极无间","QuestionPatternFilled":null,"AnswerEntity":["刘伟强","麦兆辉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"无间道终极无间","QuestionPatternFilled":null,"AnswerEntity":["刘伟强","麦兆辉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"无间道","QuestionPatternFilled":null,"AnswerEntity":["刘伟强","麦兆辉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"喜宴","QuestionPatternFilled":null,"AnswerEntity":["李安"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"超人总动员","QuestionPatternFilled":null,"AnswerEntity":["布拉德·伯德","布拉德伯德","布拉德","伯德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑客帝国2：重装上阵","QuestionPatternFilled":null,"AnswerEntity":["莉莉·沃卓斯基","莉莉沃卓斯基","莉莉","沃卓斯基","安迪·沃卓斯基","安迪沃卓斯基","安迪","拉娜·沃卓斯基","拉娜沃卓斯基","拉娜"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑客帝国2重装上阵","QuestionPatternFilled":null,"AnswerEntity":["莉莉·沃卓斯基","莉莉沃卓斯基","莉莉","沃卓斯基","安迪·沃卓斯基","安迪沃卓斯基","安迪","拉娜·沃卓斯基","拉娜沃卓斯基","拉娜"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑客帝国2","QuestionPatternFilled":null,"AnswerEntity":["莉莉·沃卓斯基","莉莉沃卓斯基","莉莉","沃卓斯基","安迪·沃卓斯基","安迪沃卓斯基","安迪","拉娜·沃卓斯基","拉娜沃卓斯基","拉娜"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"重装上阵","QuestionPatternFilled":null,"AnswerEntity":["莉莉·沃卓斯基","莉莉沃卓斯基","莉莉","沃卓斯基","安迪·沃卓斯基","安迪沃卓斯基","安迪","拉娜·沃卓斯基","拉娜沃卓斯基","拉娜"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑客帝国重装上阵","QuestionPatternFilled":null,"AnswerEntity":["莉莉·沃卓斯基","莉莉沃卓斯基","莉莉","沃卓斯基","安迪·沃卓斯基","安迪沃卓斯基","安迪","拉娜·沃卓斯基","拉娜沃卓斯基","拉娜"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑客帝国","QuestionPatternFilled":null,"AnswerEntity":["莉莉·沃卓斯基","莉莉沃卓斯基","莉莉","沃卓斯基","安迪·沃卓斯基","安迪沃卓斯基","安迪","拉娜·沃卓斯基","拉娜沃卓斯基","拉娜"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"英雄","QuestionPatternFilled":null,"AnswerEntity":["张艺谋"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"魂断蓝桥","QuestionPatternFilled":null,"AnswerEntity":["茂文·勒鲁瓦","茂文勒鲁瓦","茂文","勒鲁瓦","mervyn leroy","mervynleroy","mervyn","leroy","梅尔文·勒罗伊","梅尔文勒罗伊","梅尔文","勒罗伊","茂文·勒鲁瓦、梅尔文·勒罗伊","茂文勒鲁瓦梅尔文勒罗伊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"全民超人汉考克","QuestionPatternFilled":null,"AnswerEntity":["彼得·博格","彼得博格","彼得","博格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"小岛惊魂","QuestionPatternFilled":null,"AnswerEntity":["alejandro amenábar","alejandroamenábar","alejandro","amenábar","亚历桑德罗·阿曼巴","亚历桑德罗阿曼巴","亚历桑德罗","阿曼巴","亚历杭德罗·阿梅纳瓦尔","亚历杭德罗阿梅纳瓦尔","亚历杭德罗","阿梅纳瓦尔","亚历桑德罗·阿曼巴[1]","亚历桑德罗阿曼巴[1]","阿曼巴[1]"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"角斗士","QuestionPatternFilled":null,"AnswerEntity":["雷德利·斯科特","雷德利斯科特","雷德利","斯科特"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"碟中谍","QuestionPatternFilled":null,"AnswerEntity":["布莱恩·德·帕尔玛","布莱恩德帕尔玛","布莱恩","帕尔玛"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"爱情呼叫转移","QuestionPatternFilled":null,"AnswerEntity":["张建亚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"盗墓笔记","QuestionPatternFilled":null,"AnswerEntity":["李仁港"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"教父3","QuestionPatternFilled":null,"AnswerEntity":["弗朗西斯·福特·科波拉","弗朗西斯福特科波拉","弗朗西斯","福特","科波拉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"教父","QuestionPatternFilled":null,"AnswerEntity":["弗朗西斯·福特·科波拉","弗朗西斯福特科波拉","弗朗西斯","福特","科波拉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"可可西里","QuestionPatternFilled":null,"AnswerEntity":["陆川"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"非常主播","QuestionPatternFilled":null,"AnswerEntity":["姜炯哲"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"建国大业","QuestionPatternFilled":null,"AnswerEntity":["韩三平","黄建新"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"十二公民","QuestionPatternFilled":null,"AnswerEntity":["徐昂"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"荒岛余生","QuestionPatternFilled":null,"AnswerEntity":["罗伯特·泽米吉斯","罗伯特泽米吉斯","罗伯特","泽米吉斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"门徒","QuestionPatternFilled":null,"AnswerEntity":["尔冬升"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"巴黎，我爱你","QuestionPatternFilled":null,"AnswerEntity":["杰拉尔·德帕迪约","杰拉尔德帕迪约","杰拉尔","德帕迪约","乔尔·科恩","乔尔科恩","乔尔","科恩","汤姆·提克威","汤姆提克威","汤姆","提克威","文森佐·纳塔利","文森佐纳塔利","文森佐","纳塔利","西维亚·乔迈","西维亚乔迈","西维亚","乔迈","杜可风","顾伦德·查达哈","顾伦德查达哈","顾伦德","查达哈","埃曼纽·本比","埃曼纽本比","埃曼纽","本比","沃尔特·塞勒斯","沃尔特塞勒斯","沃尔特","塞勒斯","伊桑·科恩","伊桑科恩","伊桑","格斯·范·桑特","格斯范桑特","格斯","桑特","诹访敦彦","奥利维耶·阿萨亚斯","奥利维耶阿萨亚斯","奥利维耶","阿萨亚斯","伊莎贝尔·科赛特","伊莎贝尔科赛特","伊莎贝尔","科赛特","韦斯·克雷文","韦斯克雷文","韦斯","克雷文","亚历山大·佩恩","亚历山大佩恩","亚历山大","佩恩","阿方索·卡隆","阿方索卡隆","阿方索","卡隆","frédéric auburtin","frédéricauburtin","frédéric","auburtin","isabel coixet","isabelcoixet","isabel","coixet","科恩兄弟 等等","科恩兄弟等等","科恩兄弟","等等"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"巴黎我爱你","QuestionPatternFilled":null,"AnswerEntity":["杰拉尔·德帕迪约","杰拉尔德帕迪约","杰拉尔","德帕迪约","乔尔·科恩","乔尔科恩","乔尔","科恩","汤姆·提克威","汤姆提克威","汤姆","提克威","文森佐·纳塔利","文森佐纳塔利","文森佐","纳塔利","西维亚·乔迈","西维亚乔迈","西维亚","乔迈","杜可风","顾伦德·查达哈","顾伦德查达哈","顾伦德","查达哈","埃曼纽·本比","埃曼纽本比","埃曼纽","本比","沃尔特·塞勒斯","沃尔特塞勒斯","沃尔特","塞勒斯","伊桑·科恩","伊桑科恩","伊桑","格斯·范·桑特","格斯范桑特","格斯","桑特","诹访敦彦","奥利维耶·阿萨亚斯","奥利维耶阿萨亚斯","奥利维耶","阿萨亚斯","伊莎贝尔·科赛特","伊莎贝尔科赛特","伊莎贝尔","科赛特","韦斯·克雷文","韦斯克雷文","韦斯","克雷文","亚历山大·佩恩","亚历山大佩恩","亚历山大","佩恩","阿方索·卡隆","阿方索卡隆","阿方索","卡隆","frédéric auburtin","frédéricauburtin","frédéric","auburtin","isabel coixet","isabelcoixet","isabel","coixet","科恩兄弟 等等","科恩兄弟等等","科恩兄弟","等等"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"我爱你","QuestionPatternFilled":null,"AnswerEntity":["杰拉尔·德帕迪约","杰拉尔德帕迪约","杰拉尔","德帕迪约","乔尔·科恩","乔尔科恩","乔尔","科恩","汤姆·提克威","汤姆提克威","汤姆","提克威","文森佐·纳塔利","文森佐纳塔利","文森佐","纳塔利","西维亚·乔迈","西维亚乔迈","西维亚","乔迈","杜可风","顾伦德·查达哈","顾伦德查达哈","顾伦德","查达哈","埃曼纽·本比","埃曼纽本比","埃曼纽","本比","沃尔特·塞勒斯","沃尔特塞勒斯","沃尔特","塞勒斯","伊桑·科恩","伊桑科恩","伊桑","格斯·范·桑特","格斯范桑特","格斯","桑特","诹访敦彦","奥利维耶·阿萨亚斯","奥利维耶阿萨亚斯","奥利维耶","阿萨亚斯","伊莎贝尔·科赛特","伊莎贝尔科赛特","伊莎贝尔","科赛特","韦斯·克雷文","韦斯克雷文","韦斯","克雷文","亚历山大·佩恩","亚历山大佩恩","亚历山大","佩恩","阿方索·卡隆","阿方索卡隆","阿方索","卡隆","frédéric auburtin","frédéricauburtin","frédéric","auburtin","isabel coixet","isabelcoixet","isabel","coixet","科恩兄弟 等等","科恩兄弟等等","科恩兄弟","等等"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"头文字D","QuestionPatternFilled":null,"AnswerEntity":["刘伟强","麦兆辉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"迷失东京","QuestionPatternFilled":null,"AnswerEntity":["索菲亚·科波拉","索菲亚科波拉","索菲亚","科波拉","索菲娅·科波拉","索菲娅科波拉","索菲娅"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"老无所依","QuestionPatternFilled":null,"AnswerEntity":["乔尔·科恩","乔尔科恩","乔尔","科恩","伊桑·科恩","伊桑科恩","伊桑","乔尔·科恩/伊桑·科恩","乔尔科恩/伊桑科恩","科恩/伊桑","乔尔·科恩、伊桑·科恩","乔尔科恩伊桑科恩"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"惊天魔盗团2","QuestionPatternFilled":null,"AnswerEntity":["朱浩伟"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"惊天魔盗团","QuestionPatternFilled":null,"AnswerEntity":["朱浩伟"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"八月迷情","QuestionPatternFilled":null,"AnswerEntity":["科斯汀·谢里丹","科斯汀谢里丹","科斯汀","谢里丹","kirsten sheridan","kirstensheridan","kirsten","sheridan"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"2046","QuestionPatternFilled":null,"AnswerEntity":["王家卫"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"","QuestionPatternFilled":null,"AnswerEntity":["王家卫"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"第五元素","QuestionPatternFilled":null,"AnswerEntity":["吕克·贝松","吕克贝松","吕克","贝松"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"河东狮吼","QuestionPatternFilled":null,"AnswerEntity":["马伟豪"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"十二猴子","QuestionPatternFilled":null,"AnswerEntity":["特瑞·吉列姆","特瑞吉列姆","特瑞","吉列姆"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"荒野生存","QuestionPatternFilled":null,"AnswerEntity":["西恩·潘","西恩潘","西恩","肖恩·潘","肖恩潘","肖恩"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"萨利机长","QuestionPatternFilled":null,"AnswerEntity":["克林特·伊斯特伍德","克林特伊斯特伍德","克林特","伊斯特伍德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"胭脂扣","QuestionPatternFilled":null,"AnswerEntity":["关锦鹏"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"麦兜故事","QuestionPatternFilled":null,"AnswerEntity":["袁建滔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"九层妖塔","QuestionPatternFilled":null,"AnswerEntity":["陆川"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"天使之城","QuestionPatternFilled":null,"AnswerEntity":["布拉德·塞伯宁","布拉德塞伯宁","布拉德","塞伯宁","布莱德·希伯林brad","布莱德希伯林brad","布莱德","希伯林brad"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"万万没想到","QuestionPatternFilled":null,"AnswerEntity":["易小星","叫兽易小星","易振兴"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"X战警2","QuestionPatternFilled":null,"AnswerEntity":["布莱恩·辛格","布莱恩辛格","布莱恩","辛格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"X战警","QuestionPatternFilled":null,"AnswerEntity":["布莱恩·辛格","布莱恩辛格","布莱恩","辛格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"完美陌生人","QuestionPatternFilled":null,"AnswerEntity":["保罗·格诺维瑟","保罗格诺维瑟","保罗","格诺维瑟"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"赤壁(上)","QuestionPatternFilled":null,"AnswerEntity":["吴宇森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"赤壁上","QuestionPatternFilled":null,"AnswerEntity":["吴宇森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"扫毒","QuestionPatternFilled":null,"AnswerEntity":["陈木胜"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"最爱","QuestionPatternFilled":null,"AnswerEntity":["顾长卫"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"天下无双","QuestionPatternFilled":null,"AnswerEntity":["刘镇伟"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"卡萨布兰卡","QuestionPatternFilled":null,"AnswerEntity":["迈克尔·柯蒂斯","迈克尔柯蒂斯","迈克尔","柯蒂斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"怪物史瑞克","QuestionPatternFilled":null,"AnswerEntity":["安德鲁·亚当森","安德鲁亚当森","安德鲁","亚当森","维基·詹森","维基詹森","维基","詹森","vicky jenson","vickyjenson","vicky","jenson","维姬·詹森","维姬詹森","维姬","维姬·杰森","维姬杰森","杰森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"荒蛮故事","QuestionPatternFilled":null,"AnswerEntity":["达米安·斯兹弗隆","达米安斯兹弗隆","达米安","斯兹弗隆","damián szifron","damiánszifron","damián","szifron"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"金蝉脱壳","QuestionPatternFilled":null,"AnswerEntity":["米凯尔·哈弗斯特罗姆","米凯尔哈弗斯特罗姆","米凯尔","哈弗斯特罗姆"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"罗生门","QuestionPatternFilled":null,"AnswerEntity":["黑泽明"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"马达加斯加","QuestionPatternFilled":null,"AnswerEntity":["汤姆·麦格拉思","汤姆麦格拉思","汤姆","麦格拉思","埃里克·达尼尔","埃里克达尼尔","埃里克","达尼尔","汤姆·麦克格雷斯","汤姆麦克格雷斯","麦克格雷斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"爱宠大机密","QuestionPatternFilled":null,"AnswerEntity":["亚罗·切尼","亚罗切尼","亚罗","切尼","雅候·迟内","雅候迟内","雅候","迟内","克里斯·雷纳德","克里斯雷纳德","克里斯","雷纳德","克里斯·雷纳德,yarrow cheney","克里斯雷纳德,yarrowcheney","雷纳德,yarrow","cheney","yarrow cheney","yarrowcheney","yarrow","亚罗·切尼、克里斯·雷纳德","亚罗切尼克里斯雷纳德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"狩猎","QuestionPatternFilled":null,"AnswerEntity":["托马斯·温特伯格","托马斯温特伯格","托马斯","温特伯格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"蒂凡尼的早餐","QuestionPatternFilled":null,"AnswerEntity":["布莱克·爱德华兹","布莱克爱德华兹","布莱克","爱德华兹"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"左耳","QuestionPatternFilled":null,"AnswerEntity":["苏有朋","连奕琦"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"逃学威龙","QuestionPatternFilled":null,"AnswerEntity":["陈嘉上"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"血钻","QuestionPatternFilled":null,"AnswerEntity":["爱德华·兹威克","爱德华兹威克","爱德华","兹威克"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"007：幽灵党","QuestionPatternFilled":null,"AnswerEntity":["萨姆·门德斯","萨姆门德斯","萨姆","门德斯","马克·福斯特","马克福斯特","马克","福斯特","马克·弗斯特","马克弗斯特","弗斯特","马丁·坎贝尔","马丁坎贝尔","马丁","坎贝尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"007幽灵党","QuestionPatternFilled":null,"AnswerEntity":["萨姆·门德斯","萨姆门德斯","萨姆","门德斯","马克·福斯特","马克福斯特","马克","福斯特","马克·弗斯特","马克弗斯特","弗斯特","马丁·坎贝尔","马丁坎贝尔","马丁","坎贝尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"007","QuestionPatternFilled":null,"AnswerEntity":["萨姆·门德斯","萨姆门德斯","萨姆","门德斯","马克·福斯特","马克福斯特","马克","福斯特","马克·弗斯特","马克弗斯特","弗斯特","马丁·坎贝尔","马丁坎贝尔","马丁","坎贝尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"幽灵党","QuestionPatternFilled":null,"AnswerEntity":["萨姆·门德斯","萨姆门德斯","萨姆","门德斯","马克·福斯特","马克福斯特","马克","福斯特","马克·弗斯特","马克弗斯特","弗斯特","马丁·坎贝尔","马丁坎贝尔","马丁","坎贝尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"谍影重重5","QuestionPatternFilled":null,"AnswerEntity":["保罗·格林格拉斯","保罗格林格拉斯","保罗","格林格拉斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"谍影重重","QuestionPatternFilled":null,"AnswerEntity":["保罗·格林格拉斯","保罗格林格拉斯","保罗","格林格拉斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"生化危机：终章","QuestionPatternFilled":null,"AnswerEntity":["保罗·安德森","保罗安德森","保罗","安德森","paul w.s. anderson","paulw.s.anderson","paul","w.s.","anderson"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"生化危机终章","QuestionPatternFilled":null,"AnswerEntity":["保罗·安德森","保罗安德森","保罗","安德森","paul w.s. anderson","paulw.s.anderson","paul","w.s.","anderson"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"生化危机","QuestionPatternFilled":null,"AnswerEntity":["保罗·安德森","保罗安德森","保罗","安德森","paul w.s. anderson","paulw.s.anderson","paul","w.s.","anderson"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"卡罗尔","QuestionPatternFilled":null,"AnswerEntity":["托德·海因斯","托德海因斯","托德","海因斯","托德·海恩斯","托德海恩斯","海恩斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"小森林 夏秋篇","QuestionPatternFilled":null,"AnswerEntity":["森淳一"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"导盲犬小Q","QuestionPatternFilled":null,"AnswerEntity":["崔洋一"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"神话","QuestionPatternFilled":null,"AnswerEntity":["唐季礼"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"林中小屋","QuestionPatternFilled":null,"AnswerEntity":["德鲁·高达","德鲁高达","德鲁","高达"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"聚焦","QuestionPatternFilled":null,"AnswerEntity":["托马斯·麦卡锡","托马斯麦卡锡","托马斯","麦卡锡","汤姆·麦卡锡","汤姆麦卡锡","汤姆","托马斯·麦卡锡（thomas mccarthy）","托马斯麦卡锡thomasmccarthy","thomas","mccarthy"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"机械姬","QuestionPatternFilled":null,"AnswerEntity":["亚历克斯·加兰","亚历克斯加兰","亚历克斯","加兰","亚力克斯·嘉兰","亚力克斯嘉兰","亚力克斯","嘉兰"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"花木兰","QuestionPatternFilled":null,"AnswerEntity":["巴里·库克","巴里库克","巴里","库克","托尼·班克罗夫特","托尼班克罗夫特","托尼","班克罗夫特","barry cook","barrycook","barry","cook","托尼·班卡福特","托尼班卡福特","班卡福特","roz phillips","rozphillips","roz","phillips"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"前任攻略","QuestionPatternFilled":null,"AnswerEntity":["田羽生"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"撒娇女人最好命","QuestionPatternFilled":null,"AnswerEntity":["彭浩翔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"北京爱情故事","QuestionPatternFilled":null,"AnswerEntity":["陈思诚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"精灵旅社","QuestionPatternFilled":null,"AnswerEntity":["格恩迪·塔塔科夫斯基","格恩迪塔塔科夫斯基","格恩迪","塔塔科夫斯基","genndy tartakovsky","genndytartakovsky","genndy","tartakovsky"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"非常嫌疑犯","QuestionPatternFilled":null,"AnswerEntity":["布莱恩·辛格","布莱恩辛格","布莱恩","辛格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"天台爱情","QuestionPatternFilled":null,"AnswerEntity":["周杰伦"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"万物理论","QuestionPatternFilled":null,"AnswerEntity":["james marsh","jamesmarsh","james","marsh","詹姆斯·马什","詹姆斯马什","詹姆斯","马什"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"革命之路","QuestionPatternFilled":null,"AnswerEntity":["萨姆·门德斯","萨姆门德斯","萨姆","门德斯","山姆·门德斯","山姆门德斯","山姆"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"言叶之庭","QuestionPatternFilled":null,"AnswerEntity":["新海诚"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"山河故人","QuestionPatternFilled":null,"AnswerEntity":["贾樟柯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"浪潮","QuestionPatternFilled":null,"AnswerEntity":["丹尼斯·甘塞尔","丹尼斯甘塞尔","丹尼斯","甘塞尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"沉睡魔咒","QuestionPatternFilled":null,"AnswerEntity":["罗伯特·斯特罗姆伯格","罗伯特斯特罗姆伯格","罗伯特","斯特罗姆伯格","罗伯特·斯托姆伯格","罗伯特斯托姆伯格","斯托姆伯格","罗伯特·斯特龙伯格","罗伯特斯特龙伯格","斯特龙伯格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"激战","QuestionPatternFilled":null,"AnswerEntity":["林超贤"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"暗杀","QuestionPatternFilled":null,"AnswerEntity":["崔东勋"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"灰姑娘","QuestionPatternFilled":null,"AnswerEntity":["肯尼思·布拉纳","肯尼思布拉纳","肯尼思","布拉纳","肯尼斯·布拉纳夫","肯尼斯布拉纳夫","肯尼斯","布拉纳夫"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"二次曝光","QuestionPatternFilled":null,"AnswerEntity":["李玉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"爱在午夜降临前","QuestionPatternFilled":null,"AnswerEntity":["理查德·林克莱特","理查德林克莱特","理查德","林克莱特"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"梦之安魂曲","QuestionPatternFilled":null,"AnswerEntity":["达伦·阿伦诺夫斯基","达伦阿伦诺夫斯基","达伦","阿伦诺夫斯基","达伦·阿罗诺夫斯基","达伦阿罗诺夫斯基","阿罗诺夫斯基"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"移动迷宫","QuestionPatternFilled":null,"AnswerEntity":["韦斯·鲍尔","韦斯鲍尔","韦斯","鲍尔","wes ball","wesball","wes","ball","韦斯·波尔","韦斯波尔","波尔"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"了不起的狐狸爸爸","QuestionPatternFilled":null,"AnswerEntity":["韦斯·安德森","韦斯安德森","韦斯","安德森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"窃听风云3","QuestionPatternFilled":null,"AnswerEntity":["麦兆辉","庄文强","麦兆辉 庄文强","麦兆辉庄文强","麦兆辉、庄文强"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"窃听风云","QuestionPatternFilled":null,"AnswerEntity":["麦兆辉","庄文强","麦兆辉 庄文强","麦兆辉庄文强","麦兆辉、庄文强"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"枪王之王","QuestionPatternFilled":null,"AnswerEntity":["尔冬升"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"毒战","QuestionPatternFilled":null,"AnswerEntity":["杜琪峰","韦家辉","杜琪峯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"西游记之大闹天宫","QuestionPatternFilled":null,"AnswerEntity":["郑保瑞"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"鬼妈妈","QuestionPatternFilled":null,"AnswerEntity":["亨利·塞利克","亨利塞利克","亨利","塞利克"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"追凶者也","QuestionPatternFilled":null,"AnswerEntity":["曹保平"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"哥斯拉","QuestionPatternFilled":null,"AnswerEntity":["加里斯·爱德华斯","加里斯爱德华斯","加里斯","爱德华斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"百鸟朝凤","QuestionPatternFilled":null,"AnswerEntity":["吴天明"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"特工绍特","QuestionPatternFilled":null,"AnswerEntity":["菲利普·诺伊斯","菲利普诺伊斯","菲利普","诺伊斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"夺宝联盟","QuestionPatternFilled":null,"AnswerEntity":["崔东勋"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"海街日记","QuestionPatternFilled":null,"AnswerEntity":["是枝裕和"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"夜行者","QuestionPatternFilled":null,"AnswerEntity":["丹·吉尔罗伊","丹吉尔罗伊","吉尔罗伊","dan gilroy","dangilroy","dan","gilroy","托尼·吉尔罗伊","托尼吉尔罗伊","托尼"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"黑鹰坠落","QuestionPatternFilled":null,"AnswerEntity":["雷德利·斯科特","雷德利斯科特","雷德利","斯科特","雷德利.斯科特"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"十一罗汉","QuestionPatternFilled":null,"AnswerEntity":["史蒂文·索德伯格","史蒂文索德伯格","史蒂文","索德伯格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"拆弹部队","QuestionPatternFilled":null,"AnswerEntity":["凯瑟琳·毕格罗","凯瑟琳毕格罗","凯瑟琳","毕格罗","凯瑟琳·毕罗格","凯瑟琳毕罗格","毕罗格"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"回忆积木小屋","QuestionPatternFilled":null,"AnswerEntity":["加藤久仁生"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"叫我第一名","QuestionPatternFilled":null,"AnswerEntity":["彼得·维纳","彼得维纳","彼得","维纳","peter werner","peterwerner","peter","werner","大卫·格瑞尼","大卫格瑞尼","大卫","格瑞尼","彼得·沃纳","彼得沃纳","沃纳"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"锦衣卫","QuestionPatternFilled":null,"AnswerEntity":["李仁港"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"天生一对","QuestionPatternFilled":null,"AnswerEntity":["南希·迈耶斯","南希迈耶斯","南希","迈耶斯","南希·梅尔斯","南希梅尔斯","梅尔斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"有一个地方只有我们知道","QuestionPatternFilled":null,"AnswerEntity":["徐静蕾"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"绿里奇迹","QuestionPatternFilled":null,"AnswerEntity":["弗兰克·德拉邦特","弗兰克德拉邦特","弗兰克","德拉邦特"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"生化危机4：战神再生","QuestionPatternFilled":null,"AnswerEntity":["保罗·安德森","保罗安德森","保罗","安德森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"生化危机4战神再生","QuestionPatternFilled":null,"AnswerEntity":["保罗·安德森","保罗安德森","保罗","安德森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"生化危机4","QuestionPatternFilled":null,"AnswerEntity":["保罗·安德森","保罗安德森","保罗","安德森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"战神再生","QuestionPatternFilled":null,"AnswerEntity":["保罗·安德森","保罗安德森","保罗","安德森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"生化危机战神再生","QuestionPatternFilled":null,"AnswerEntity":["保罗·安德森","保罗安德森","保罗","安德森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"生化危机","QuestionPatternFilled":null,"AnswerEntity":["保罗·安德森","保罗安德森","保罗","安德森"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"剑雨","QuestionPatternFilled":null,"AnswerEntity":["吴宇森","苏照彬"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"巴黎淘气帮","QuestionPatternFilled":null,"AnswerEntity":["劳伦·泰拉德","劳伦泰拉德","劳伦","泰拉德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"八恶人","QuestionPatternFilled":null,"AnswerEntity":["昆汀·塔伦蒂诺","昆汀塔伦蒂诺","昆汀","塔伦蒂诺"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"海边的曼彻斯特","QuestionPatternFilled":null,"AnswerEntity":["肯尼思·洛纳根","肯尼思洛纳根","肯尼思","洛纳根","肯尼斯·罗纳根","肯尼斯罗纳根","肯尼斯","罗纳根"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"星空","QuestionPatternFilled":null,"AnswerEntity":["林书宇"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"恋爱假期","QuestionPatternFilled":null,"AnswerEntity":["南希·迈耶斯","南希迈耶斯","南希","迈耶斯","南希·梅尔斯","南希梅尔斯","梅尔斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"大兵小将","QuestionPatternFilled":null,"AnswerEntity":["丁晟"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"理发师陶德","QuestionPatternFilled":null,"AnswerEntity":["蒂姆·波顿","蒂姆波顿","蒂姆","波顿","蒂姆·伯顿","蒂姆伯顿","伯顿"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"通天塔","QuestionPatternFilled":null,"AnswerEntity":["亚利桑德罗·冈萨雷斯·伊纳里多","亚利桑德罗冈萨雷斯伊纳里多","亚利桑德罗","冈萨雷斯","伊纳里多","亚利桑德罗·冈萨雷斯·伊纳里图","亚利桑德罗冈萨雷斯伊纳里图","伊纳里图","阿加多·冈萨雷斯·伊纳里多","阿加多冈萨雷斯伊纳里多","阿加多"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"帕丁顿熊","QuestionPatternFilled":null,"AnswerEntity":["保罗·金","保罗金","保罗","paul king","paulking","paul","king"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"被偷走的那五年","QuestionPatternFilled":null,"AnswerEntity":["黄真真"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"老男孩猛龙过江","QuestionPatternFilled":null,"AnswerEntity":["肖央"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"星球大战外传：侠盗一号","QuestionPatternFilled":null,"AnswerEntity":["加里斯·爱德华斯","加里斯爱德华斯","加里斯","爱德华斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"星球大战外传侠盗一号","QuestionPatternFilled":null,"AnswerEntity":["加里斯·爱德华斯","加里斯爱德华斯","加里斯","爱德华斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"星球大战外传","QuestionPatternFilled":null,"AnswerEntity":["加里斯·爱德华斯","加里斯爱德华斯","加里斯","爱德华斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"侠盗一号","QuestionPatternFilled":null,"AnswerEntity":["加里斯·爱德华斯","加里斯爱德华斯","加里斯","爱德华斯"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"恋爱通告","QuestionPatternFilled":null,"AnswerEntity":["王力宏"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"夏日大作战","QuestionPatternFilled":null,"AnswerEntity":["细田守"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"神探","QuestionPatternFilled":null,"AnswerEntity":["杜琪峰","韦家辉","杜琪峯","杜琪峰、韦家辉、鞠觉亮","杜琪峰韦家辉鞠觉亮","鞠觉亮"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"落水狗","QuestionPatternFilled":null,"AnswerEntity":["昆汀·塔伦蒂诺","昆汀塔伦蒂诺","昆汀","塔伦蒂诺"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"弱点","QuestionPatternFilled":null,"AnswerEntity":["约翰·李·汉考克","约翰李汉考克","约翰","汉考克"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"为奴十二年","QuestionPatternFilled":null,"AnswerEntity":["史蒂夫·麦奎因","史蒂夫麦奎因","史蒂夫","麦奎因"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"使徒行者","QuestionPatternFilled":null,"AnswerEntity":["文伟鸿"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"我愿意","QuestionPatternFilled":null,"AnswerEntity":["孙周"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"小森林 冬春篇","QuestionPatternFilled":null,"AnswerEntity":["森淳一"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"你丫闭嘴！","QuestionPatternFilled":null,"AnswerEntity":["法兰西斯·威柏","法兰西斯威柏","法兰西斯","威柏"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"安德的游戏","QuestionPatternFilled":null,"AnswerEntity":["加文·胡德","加文胡德","加文","胡德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"海洋","QuestionPatternFilled":null,"AnswerEntity":["雅克·贝汉","雅克贝汉","雅克","贝汉","雅克·克鲁奥德","雅克克鲁奥德","克鲁奥德","jacques cluzaud","jacquescluzaud","jacques","cluzaud"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"金刚：骷髅岛","QuestionPatternFilled":null,"AnswerEntity":["乔丹·沃格特-罗伯茨","乔丹沃格特罗伯茨","乔丹","沃格特","罗伯茨","乔丹·沃格-罗伯茨","乔丹沃格罗伯茨","沃格","乔丹·沃格特·罗伯茨"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"金刚骷髅岛","QuestionPatternFilled":null,"AnswerEntity":["乔丹·沃格特-罗伯茨","乔丹沃格特罗伯茨","乔丹","沃格特","罗伯茨","乔丹·沃格-罗伯茨","乔丹沃格罗伯茨","沃格","乔丹·沃格特·罗伯茨"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"骷髅岛","QuestionPatternFilled":null,"AnswerEntity":["乔丹·沃格特-罗伯茨","乔丹沃格特罗伯茨","乔丹","沃格特","罗伯茨","乔丹·沃格-罗伯茨","乔丹沃格罗伯茨","沃格","乔丹·沃格特·罗伯茨"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"惊情四百年","QuestionPatternFilled":null,"AnswerEntity":["弗朗西斯·福特·科波拉","弗朗西斯福特科波拉","弗朗西斯","福特","科波拉"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"谍影重重4","QuestionPatternFilled":null,"AnswerEntity":["托尼·吉尔罗伊","托尼吉尔罗伊","托尼","吉尔罗伊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"谍影重重","QuestionPatternFilled":null,"AnswerEntity":["托尼·吉尔罗伊","托尼吉尔罗伊","托尼","吉尔罗伊"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"金刚狼2","QuestionPatternFilled":null,"AnswerEntity":["詹姆斯·曼高德","詹姆斯曼高德","詹姆斯","曼高德"]}
+{"QuestionType":1,"QuestionPattern":null,"QuestionEntity":"金刚狼","QuestionPatternFilled":null,"AnswerEntity":["詹姆斯·曼高德","詹姆斯曼高德","詹姆斯","曼高德"]}
