@@ -72,3 +72,4 @@ CleanVSProject.exe
 *.so
 slnx.sqlite
 .vs/
+*.json

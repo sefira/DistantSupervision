@@ -9,6 +9,7 @@ using Newtonsoft.Json;
 namespace ClassificationDataFromSeeds
 {
     // generate QuestionAnswerEntityPair by AnswerEntity
+    // QuestionAnswerEntityPair has split the question entity and answer entity, while AnswerEntity fusion them.
     // input: movie_wanswer.txt artist_wanswer.txt director_wanswer.txt
     // output: 1 movie_artist.txt 2 movie_director.txt 3 movie_publishdate.txt 4 movie_genres.txt 5 movie_country.txt 6 celebrity_act.txt 7 celebrity_direct.txt
 

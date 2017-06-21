@@ -1,0 +1,91 @@
+﻿//Script GUID:76ee659b-e34b-4c90-8424-3abc0b8f4e03
+//Used for tracking history
+
+#DECLARE path string = @"my/MovieDomain/DistSupervised/";
+#DECLARE TimeNow string = DateTime.Now.ToString("yyyy-MM-dd-HH-mm");
+
+#DECLARE movie_artist string = @path + @"movie_artist_distsup.tsv";             //0
+#DECLARE movie_director string = @path + @"movie_director_distsup.tsv";         //1
+#DECLARE movie_publishdate string = @path + @"movie_publishdate_distsup.tsv";   //2
+#DECLARE movie_genres string = @path + @"movie_genres_distsup.tsv";             //3
+#DECLARE movie_country string = @path + @"movie_country_distsup.tsv";           //4
+#DECLARE celebrity_act string = @path + @"celebrity_act_distsup.tsv";           //6
+#DECLARE celebrity_direct string = @path + @"celebrity_direct_distsup.tsv";     //7
+
+#DECLARE distsup_data_removenegduplic_output string = @path + @TimeNow + @"distsup_data_removenegduplic.tsv";
+#DECLARE distsup_data_removebothduplic_output string = @path + @TimeNow + @"distsup_data_removebothduplic.tsv";
+#DECLARE train_dataneg_output string = @path + @TimeNow + @"train_dataneg.tsv";
+#DECLARE train_databoth_output string = @path + @TimeNow + @"train_databoth.tsv";
+
+distsup_data = 
+    EXTRACT 
+        QuestionType: int,
+        QuestionPattern:string,
+        QuestionEntity:string,
+        QuestionPatternFilled:string,
+        AnswerEntity:string,
+        webPagesvalueQuestion:string,
+        webPagesvalueSnippet:string,
+        webPagesvalueURL:string,
+        TrainData:string,
+        TrainLabel:int
+    FROM        
+        @"my/MovieDomain/DistSupervised/movie_artist_distsup.tsv",              //0
+        @"my/MovieDomain/DistSupervised/movie_director_distsup.tsv",            //1
+        @"my/MovieDomain/DistSupervised/movie_publishdate_distsup.tsv",         //2
+        @"my/MovieDomain/DistSupervised/movie_genres_distsup.tsv",              //3
+        @"my/MovieDomain/DistSupervised/movie_country_distsup.tsv",             //4
+        @"my/MovieDomain/DistSupervised/celebrity_act_distsup.tsv",             //6
+        @"my/MovieDomain/DistSupervised/celebrity_direct_distsup.tsv"           //7
+    USING DefaultTextExtractor();
+
+// remove duplicate
+data_removenegduplic = 
+    REDUCE distsup_data
+    ON webPagesvalueURL
+    USING NegativeDataRemoveDuplic
+    PRESORT TrainLabel;
+    
+OUTPUT data_removenegduplic TO @distsup_data_removenegduplic_output
+ORDER BY webPagesvalueURL
+USING DefaultTextOutputter();
+
+
+data_removebothduplic = 
+    REDUCE distsup_data
+    ON webPagesvalueURL
+    USING BothDataRemoveDuplic
+    PRESORT TrainLabel;
+
+OUTPUT data_removebothduplic TO @distsup_data_removebothduplic_output
+ORDER BY webPagesvalueURL
+USING DefaultTextOutputter();
+
+// train data
+train_dataneg = 
+    SELECT
+        //QuestionType,
+        //webPagesvalueQuestion,
+        //webPagesvalueURL,
+        TrainData,
+        TrainLabel
+    FROM
+        data_removenegduplic;
+
+OUTPUT train_dataneg TO @train_dataneg_output
+ORDER BY TrainLabel
+USING DefaultTextOutputter();
+
+train_databoth = 
+    SELECT
+        //QuestionType,
+        //webPagesvalueQuestion,
+        //webPagesvalueURL,
+        TrainData,
+        TrainLabel
+    FROM
+        data_removebothduplic;
+
+OUTPUT train_databoth TO @train_databoth_output
+ORDER BY TrainLabel
+USING DefaultTextOutputter();

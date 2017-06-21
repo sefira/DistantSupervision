@@ -1,0 +1,141 @@
+﻿//Script GUID:d087fca5-dec6-4853-8fcc-ad25ca1c4a11
+//Used for tracking history
+
+#DECLARE path string = @"my/MovieDomain/DistSupervised/";
+
+#DECLARE movie_artist_openapi3 string = @path + @"movie_artist_openapi3000.json";
+#DECLARE movie_artist_openapi6 string = @path + @"movie_artist_openapi6000.json";
+#DECLARE movie_artist_openapi9 string = @path + @"movie_artist_openapi9000.json";
+#DECLARE movie_artist_openapi12 string = @path + @"movie_artist_openapi12000.json";
+#DECLARE movie_artist_openapi12015 string = @path + @"movie_artist_openapi12015.json";
+#DECLARE movie_artist_output string = @path + @"movie_artist.ss";
+movie_artist = EXTRACT 
+            QuestionType:int, 
+            QuestionPattern:string,
+            QuestionEntity:string,
+            QuestionPatternFilled:string,
+            AnswerEntity:string,
+            webPagesvalueQuestion:string,
+            webPagesvalueSnippet:string,
+            webPagesvalueURL:string
+       FROM @movie_artist_openapi3 ,
+            @movie_artist_openapi6 ,
+            @movie_artist_openapi9 , 
+            @movie_artist_openapi12 , 
+            @movie_artist_openapi12015  
+       USING Json2TsvExtractor();
+
+OUTPUT movie_artist TO SSTREAM @movie_artist_output;
+
+
+#DECLARE movie_director_openapi3 string = @path + @"movie_director_openapi3000.json";
+#DECLARE movie_director_openapi6 string = @path + @"movie_director_openapi6000.json";
+#DECLARE movie_director_openapi9 string = @path + @"movie_director_openapi9000.json";
+#DECLARE movie_director_openapi12 string = @path + @"movie_director_openapi12000.json";
+#DECLARE movie_director_openapi15 string = @path + @"movie_director_openapi15000.json";
+#DECLARE movie_director_openapi15020 string = @path + @"movie_director_openapi15019.json";
+#DECLARE movie_director_output string = @path + @"movie_director.ss";
+movie_director = EXTRACT 
+            QuestionType:int, 
+            QuestionPattern:string,
+            QuestionEntity:string,
+            QuestionPatternFilled:string,
+            AnswerEntity:string,
+            webPagesvalueQuestion:string,
+            webPagesvalueSnippet:string,
+            webPagesvalueURL:string
+       FROM @movie_director_openapi3 ,
+            @movie_director_openapi6 ,
+            @movie_director_openapi9 , 
+            @movie_director_openapi12 , 
+            @movie_director_openapi15020  
+       USING Json2TsvExtractor();
+
+OUTPUT movie_director TO SSTREAM @movie_director_output;
+
+
+#DECLARE movie_publishdate_openapi string = @path + @"movie_publishdate_openapi.json";
+#DECLARE movie_publishdate_output string = @path + @"movie_publishdate.ss";
+movie_publishdate = EXTRACT 
+            QuestionType:int, 
+            QuestionPattern:string,
+            QuestionEntity:string,
+            QuestionPatternFilled:string,
+            AnswerEntity:string,
+            webPagesvalueQuestion:string,
+            webPagesvalueSnippet:string,
+            webPagesvalueURL:string
+       FROM @movie_publishdate_openapi  
+       USING Json2TsvExtractor();
+
+OUTPUT movie_publishdate TO SSTREAM @movie_publishdate_output;
+
+
+#DECLARE movie_genres_openapi string = @path + @"movie_genres_openapi.json";
+#DECLARE movie_genres_output string = @path + @"movie_genres.ss";
+movie_genres = EXTRACT 
+            QuestionType:int, 
+            QuestionPattern:string,
+            QuestionEntity:string,
+            QuestionPatternFilled:string,
+            AnswerEntity:string,
+            webPagesvalueQuestion:string,
+            webPagesvalueSnippet:string,
+            webPagesvalueURL:string
+       FROM @movie_genres_openapi  
+       USING Json2TsvExtractor();
+
+OUTPUT movie_genres TO SSTREAM @movie_genres_output;
+
+
+#DECLARE movie_country_openapi3 string = @path + @"movie_country_openapi3000.json";
+#DECLARE movie_country_openapi5256 string = @path + @"movie_country_openapi5256.json";
+#DECLARE movie_country_output string = @path + @"movie_country.ss";
+movie_country = EXTRACT 
+            QuestionType:int, 
+            QuestionPattern:string,
+            QuestionEntity:string,
+            QuestionPatternFilled:string,
+            AnswerEntity:string,
+            webPagesvalueQuestion:string,
+            webPagesvalueSnippet:string,
+            webPagesvalueURL:string
+       FROM @movie_country_openapi3,
+            @movie_country_openapi5256
+       USING Json2TsvExtractor();
+
+OUTPUT movie_country TO SSTREAM @movie_country_output;
+
+
+#DECLARE celebrity_act_openapi string = @path + @"celebrity_act_openapi.json";
+#DECLARE celebrity_act_output string = @path + @"celebrity_act.ss";
+celebrity_act = EXTRACT 
+            QuestionType:int, 
+            QuestionPattern:string,
+            QuestionEntity:string,
+            QuestionPatternFilled:string,
+            AnswerEntity:string,
+            webPagesvalueQuestion:string,
+            webPagesvalueSnippet:string,
+            webPagesvalueURL:string
+       FROM @celebrity_act_openapi
+       USING Json2TsvExtractor();
+
+OUTPUT celebrity_act TO SSTREAM @celebrity_act_output;
+
+
+#DECLARE celebrity_direct_openapi string = @path + @"celebrity_direct_openapi.json";
+#DECLARE celebrity_direct_putput string = @path + @"celebrity_direct.ss";
+celebrity_direct = EXTRACT 
+            QuestionType:int, 
+            QuestionPattern:string,
+            QuestionEntity:string,
+            QuestionPatternFilled:string,
+            AnswerEntity:string,
+            webPagesvalueQuestion:string,
+            webPagesvalueSnippet:string,
+            webPagesvalueURL:string
+       FROM @celebrity_direct_openapi
+       USING Json2TsvExtractor();
+
+OUTPUT celebrity_direct TO SSTREAM @celebrity_direct_putput;

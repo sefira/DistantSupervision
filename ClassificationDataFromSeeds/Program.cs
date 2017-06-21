@@ -15,6 +15,8 @@ namespace ClassificationDataFromSeeds
             //AnswerEntityGenerator.FakeMain();
             //QuestionAnswerEntityPairGenerator.FakeMain();
             //QuestionAnswerPatternGenerator.FakeMain();
+
+            OpenAPICollector.FakeMain();
         }
     }
 }

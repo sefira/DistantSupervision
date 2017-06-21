@@ -8,6 +8,11 @@ using System.Threading.Tasks;
 
 namespace ClassificationDataFromSeeds
 {
+    // generate QuestionAnswerPatternGenerator by QuestionAnswerEntityPairGenerator
+    // QuestionAnswerPatternGenerator has filled the question pattern with question entity in QuestionAnswerEntityPairGenerator
+    // input: 1 movie_artist.txt 2 movie_director.txt 3 movie_publishdate.txt 4 movie_genres.txt 5 movie_country.txt 6 celebrity_act.txt 7 celebrity_direct.txt
+    // output: 1 movie_artist_pattern.txt 2 movie_director_pattern.txt 3 movie_publishdate_pattern.txt 4 movie_genres_pattern.txt 5 movie_country_pattern.txt 6 celebrity_act_pattern.txt 7 celebrity_direct_pattern.txt
+
     class QuestionAnswerPatternGenerator
     {
         public static void FakeMain()
@@ -55,7 +60,7 @@ namespace ClassificationDataFromSeeds
                     }
                 }
             }
-            catch { Console.WriteLine($"There is no {pattern_file}"); Console.WriteLine($"Has read {count} patterns"); }
+            catch { Console.WriteLine($"There is no {pattern_file}"); Console.WriteLine($"{count} patterns has beed read"); }
         }
 
         private static void WriteFile<T>(string output_file, List<T> question_answer_list)
@@ -133,7 +138,7 @@ namespace ClassificationDataFromSeeds
                     question_answer_list.Add(temp);
                 }
             }
-            //WriteFile<QuestionAnswer>(output_file, question_answer_list);
+            WriteFile<QuestionAnswer>(output_file, question_answer_list);
             Console.WriteLine($"Output patterned Question Answer into file {output_file}");
             return question_answer_list;
         }
